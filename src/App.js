@@ -6,6 +6,6 @@ export default () => (
     <h1>Paint Colour Selector</h1>
     <label htmlFor="favcolor">Enter a Hex RGB for the colour</label>
     <input type="text" id="favcolor" name="favcolor" />
-    <button>Select Colour</button>
+    <button>Select Paint Colour</button>
   </div>
 );
