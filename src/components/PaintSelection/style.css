@@ -1,0 +1,26 @@
+.inner-box {
+    top: 25%; 
+    left:25%; 
+    width:50%; 
+    height:50%; 
+    position: relative;
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+.outer-box {
+    width:100%; 
+    height:100%; 
+    position:relative;
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+.colour-boxes {
+    float: left;
+    width: 100px;
+}
+
+.box {
+    height: 100px;
+}
