@@ -1,5 +1,6 @@
 import PaintColour from "./PaintColour";
 import findNearestPaintColour from "./SelectColour";
+import citadelColours from "../json/Citadel_Colours.json";
 
 test('Finds the nearest colours to', () => {
     const paintColours = [
@@ -25,4 +26,20 @@ test('Finds the nearest colours to', () => {
 
     expect(lightPink).toMatchObject(new PaintColour("White", 0xFFFFFF));
 });
-  
+
+test('Test with real colours', () => {
+    const paintColours = citadelColours.map((colour) => new PaintColour(colour.name, parseInt(colour.hexCode.replace("#", "0x"), 16)));
+
+    const slateBlue = findNearestPaintColour(0x6A5ACD, paintColours);
+
+    expect(slateBlue).toMatchObject(new PaintColour("Genestealer Purple", 0x7c5ca4));
+
+    const saddleBrown = findNearestPaintColour(0x8B4513, paintColours);
+
+    expect(saddleBrown).toMatchObject(new PaintColour("XV-88", 0x7b4d1c));
+
+    const lightPink = findNearestPaintColour(0xFFB6C1, paintColours);
+
+    expect(lightPink).toMatchObject(new PaintColour("Pallid Wych Flesh", 0xd6d5c4));
+});
+

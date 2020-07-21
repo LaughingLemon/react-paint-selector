@@ -1,0 +1,346 @@
+[
+ {
+   "name": "Beasty Brown",
+   "hexCode": "#55432d "
+ },
+ {
+   "name": "Black",
+   "hexCode": "#000000 "
+ },
+ {
+   "name": "Bloody Red",
+   "hexCode": "#bf282e "
+ },
+ {
+   "name": "Bone White",
+   "hexCode": "#e8be86 "
+ },
+ {
+   "name": "Bronze Fleshtone",
+   "hexCode": "#db945c "
+ },
+ {
+   "name": "Cadmium Skin",
+   "hexCode": "#fab78a "
+ },
+ {
+   "name": "Camoflage Green",
+   "hexCode": "#71753a "
+ },
+ {
+   "name": "Cayman Green",
+   "hexCode": "#285648 "
+ },
+ {
+   "name": "Charred Brown",
+   "hexCode": "#39343b "
+ },
+ {
+   "name": "Cold Grey",
+   "hexCode": "#54646d "
+ },
+ {
+   "name": "Dark Blue",
+   "hexCode": "#2b265d "
+ },
+ {
+   "name": "Dark Fleshtone",
+   "hexCode": "#4f2b26 "
+ },
+ {
+   "name": "Dark Green",
+   "hexCode": "#083c2a "
+ },
+ {
+   "name": "Dead Flesh",
+   "hexCode": "#bcb686 "
+ },
+ {
+   "name": "Dead White",
+   "hexCode": "#ffffff "
+ },
+ {
+   "name": "Desert Yellow",
+   "hexCode": "#8e7845 "
+ },
+ {
+   "name": "Dwarf Skin",
+   "hexCode": "#cc7c67 "
+ },
+ {
+   "name": "Earth",
+   "hexCode": "#6f563d "
+ },
+ {
+   "name": "Electric Blue",
+   "hexCode": "#008cbf "
+ },
+ {
+   "name": "Elf Skintone",
+   "hexCode": "#f8a070 "
+ },
+ {
+   "name": "Elfic Flesh",
+   "hexCode": "#cdc29c "
+ },
+ {
+   "name": "Filthy Brown",
+   "hexCode": "#f58d2b "
+ },
+ {
+   "name": "Fluo Green",
+   "hexCode": "#9dcd64 "
+ },
+ {
+   "name": "Fluo Yellow",
+   "hexCode": "#eeea50 "
+ },
+ {
+   "name": "Foul Green",
+   "hexCode": "#239378 "
+ },
+ {
+   "name": "Ghost Grey",
+   "hexCode": "#a7c5db "
+ },
+ {
+   "name": "Glacier Blue",
+   "hexCode": "#acd0ee "
+ },
+ {
+   "name": "Goblin Green",
+   "hexCode": "#23743c "
+ },
+ {
+   "name": "Gold Yellow",
+   "hexCode": "#fdb318 "
+ },
+ {
+   "name": "Gory Red",
+   "hexCode": "#810504 "
+ },
+ {
+   "name": "Heavy Black Green",
+   "hexCode": "#18433d "
+ },
+ {
+   "name": "Heavy Blue",
+   "hexCode": "#29556d "
+ },
+ {
+   "name": "Heavy Blue Grey",
+   "hexCode": "#9ca7a7 "
+ },
+ {
+   "name": "Heavy Brown",
+   "hexCode": "#705d41 "
+ },
+ {
+   "name": "Heavy Charcoal",
+   "hexCode": "#1c2e2e "
+ },
+ {
+   "name": "Heavy Gold Brown",
+   "hexCode": "#ba8636 "
+ },
+ {
+   "name": "Heavy Green",
+   "hexCode": "#566840 "
+ },
+ {
+   "name": "Heavy Grey",
+   "hexCode": "#626d54 "
+ },
+ {
+   "name": "Heavy Khaki",
+   "hexCode": "#9d965d "
+ },
+ {
+   "name": "Heavy Ochre",
+   "hexCode": "#a87536 "
+ },
+ {
+   "name": "Heavy Orange",
+   "hexCode": "#ee5527 "
+ },
+ {
+   "name": "Heavy Red",
+   "hexCode": "#943238 "
+ },
+ {
+   "name": "Heavy Sienna",
+   "hexCode": "#744642 "
+ },
+ {
+   "name": "Heavy Skintone",
+   "hexCode": "#aa7b62 "
+ },
+ {
+   "name": "Heavy Violet",
+   "hexCode": "#4c2e65 "
+ },
+ {
+   "name": "Heavy Warm Grey",
+   "hexCode": "#939066 "
+ },
+ {
+   "name": "Hexed Lichen",
+   "hexCode": "#34274d "
+ },
+ {
+   "name": "Hot Orange",
+   "hexCode": "#e43027 "
+ },
+ {
+   "name": "Imperial Purple",
+   "hexCode": "#211a4b "
+ },
+ {
+   "name": "Jade Green",
+   "hexCode": "#128379 "
+ },
+ {
+   "name": "Khaki",
+   "hexCode": "#8c806d "
+ },
+ {
+   "name": "Leather Brown",
+   "hexCode": "#7b5d2a "
+ },
+ {
+   "name": "Livery Green",
+   "hexCode": "#9ece65 "
+ },
+ {
+   "name": "Magic Blue",
+   "hexCode": "#024381 "
+ },
+ {
+   "name": "Moon Yellow",
+   "hexCode": "#fff103 "
+ },
+ {
+   "name": "Mutation Green",
+   "hexCode": "#296934 "
+ },
+ {
+   "name": "Night Blue",
+   "hexCode": "#19183f "
+ },
+ {
+   "name": "Offwhite",
+   "hexCode": "#f5f4da "
+ },
+ {
+   "name": "Orange Fire",
+   "hexCode": "#f1652e "
+ },
+ {
+   "name": "Pale Flesh",
+   "hexCode": "#f6bdb3 "
+ },
+ {
+   "name": "Pale Yellow",
+   "hexCode": "#d5c179 "
+ },
+ {
+   "name": "Parasite Brown",
+   "hexCode": "#b1481f "
+ },
+ {
+   "name": "Plague Brown",
+   "hexCode": "#cc9b34 "
+ },
+ {
+   "name": "Rosy Flesh",
+   "hexCode": "#f89e84 "
+ },
+ {
+   "name": "Royal Purple",
+   "hexCode": "#23264f "
+ },
+ {
+   "name": "Scarlet \"Blood\" Red",
+   "hexCode": "#b72a38 "
+ },
+ {
+   "name": "Scarlet Red",
+   "hexCode": "#741330 "
+ },
+ {
+   "name": "Scorpion Green",
+   "hexCode": "#48b851 "
+ },
+ {
+   "name": "Scrofulous Brown",
+   "hexCode": "#d68030 "
+ },
+ {
+   "name": "Scurvy Green",
+   "hexCode": "#09474e "
+ },
+ {
+   "name": "Sick Green",
+   "hexCode": "#096638 "
+ },
+ {
+   "name": "Smokey Ink",
+   "hexCode": "#2b2325 "
+ },
+ {
+   "name": "Sombre Grey",
+   "hexCode": "#4c5c7d "
+ },
+ {
+   "name": "Squid Pink",
+   "hexCode": "#da7fb5 "
+ },
+ {
+   "name": "Steel Grey",
+   "hexCode": "#64889d "
+ },
+ {
+   "name": "Stonewall Grey",
+   "hexCode": "#828e95 "
+ },
+ {
+   "name": "Stormy Night",
+   "hexCode": "#1f1a4f "
+ },
+ {
+   "name": "Sun Yellow",
+   "hexCode": "#ffcf07 "
+ },
+ {
+   "name": "Tan",
+   "hexCode": "#9f4746 "
+ },
+ {
+   "name": "Terracota",
+   "hexCode": "#6b1306 "
+ },
+ {
+   "name": "Turquoise",
+   "hexCode": "#03676f "
+ },
+ {
+   "name": "Ultramarine Blue",
+   "hexCode": "#373592 "
+ },
+ {
+   "name": "Verdigris",
+   "hexCode": "#b3ceca "
+ },
+ {
+   "name": "Warlord Purple",
+   "hexCode": "#7d1a44 "
+ },
+ {
+   "name": "Wolf Grey",
+   "hexCode": "#90a2bc "
+ },
+ {
+   "name": "Yellow Olive",
+   "hexCode": "#063b2f "
+ }
+]

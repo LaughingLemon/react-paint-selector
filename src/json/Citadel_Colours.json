@@ -1,0 +1,386 @@
+[
+ {
+   "name": "Abaddon Black",
+   "hexCode": "#010100 "
+ },
+ {
+   "name": "Administratum Grey",
+   "hexCode": "#9da299 "
+ },
+ {
+   "name": "Ahriman Blue",
+   "hexCode": "#1F8C9C "
+ },
+ {
+   "name": "Alaitoc Blue",
+   "hexCode": "#2e5689 "
+ },
+ {
+   "name": "Altdorf Guard Blue",
+   "hexCode": "#274b9b "
+ },
+ {
+   "name": "Averland Sunset",
+   "hexCode": "#fbba00 "
+ },
+ {
+   "name": "Balor Brown",
+   "hexCode": "#915e02 "
+ },
+ {
+   "name": "Baneblade Brown",
+   "hexCode": "#99826b "
+ },
+ {
+   "name": "Bestigor Flesh",
+   "hexCode": "#D38A57 "
+ },
+ {
+   "name": "Bugmans Glow",
+   "hexCode": "#8c5144 "
+ },
+ {
+   "name": "Cadian Fleshtone",
+   "hexCode": "#cb7953 "
+ },
+ {
+   "name": "Caledor Sky",
+   "hexCode": "#38689c "
+ },
+ {
+   "name": "Calgar Blue",
+   "hexCode": "#456eb5 "
+ },
+ {
+   "name": "Caliban Green",
+   "hexCode": "#003b1d "
+ },
+ {
+   "name": "Castellan Green",
+   "hexCode": "#384d20 "
+ },
+ {
+   "name": "Celestra Grey",
+   "hexCode": "#9caeae "
+ },
+ {
+   "name": "Ceramite White",
+   "hexCode": "#ffffff "
+ },
+ {
+   "name": "Daemonette Hide",
+   "hexCode": "#696685 "
+ },
+ {
+   "name": "Dark Reaper",
+   "hexCode": "#3B5150 "
+ },
+ {
+   "name": "Dawnstone",
+   "hexCode": "#7b7e74 "
+ },
+ {
+   "name": "Death Guard Armor",
+   "hexCode": "#848A66 "
+ },
+ {
+   "name": "Death World Forest",
+   "hexCode": "#666c2d "
+ },
+ {
+   "name": "Deathclaw Brown",
+   "hexCode": "#ba6952 "
+ },
+ {
+   "name": "Doombull Brown",
+   "hexCode": "#5e0605 "
+ },
+ {
+   "name": "Dryad Bark",
+   "hexCode": "#3b342e "
+ },
+ {
+   "name": "Elysian Green",
+   "hexCode": "#81932e "
+ },
+ {
+   "name": "Emperors Children",
+   "hexCode": "#bd3f75 "
+ },
+ {
+   "name": "Eshin Grey",
+   "hexCode": "#535659 "
+ },
+ {
+   "name": "Evil Suns Scarlet",
+   "hexCode": "#c00b0c "
+ },
+ {
+   "name": "Fenrisian Grey",
+   "hexCode": "#789ebb "
+ },
+ {
+   "name": "Fire Dragon Bright",
+   "hexCode": "#f1844a "
+ },
+ {
+   "name": "Flash Gitz Yellow",
+   "hexCode": "#ffee00 "
+ },
+ {
+   "name": "Flayed One Flesh",
+   "hexCode": "#f3ca8a "
+ },
+ {
+   "name": "Genestealer Purple",
+   "hexCode": "#7c5ca4 "
+ },
+ {
+   "name": "Gorthor Brown",
+   "hexCode": "#6e4e46 "
+ },
+ {
+   "name": "Hoeth Blue",
+   "hexCode": "#4f7fb5 "
+ },
+ {
+   "name": "Incubi Darkness",
+   "hexCode": "#094345 "
+ },
+ {
+   "name": "Jokaero Orange",
+   "hexCode": "#e6200f "
+ },
+ {
+   "name": "Kabalite Green",
+   "hexCode": "#008660 "
+ },
+ {
+   "name": "Kantor Blue",
+   "hexCode": "#06234f "
+ },
+ {
+   "name": "Karak Stone",
+   "hexCode": "#c1a069 "
+ },
+ {
+   "name": "Khorne Red",
+   "hexCode": "#6a0a01 "
+ },
+ {
+   "name": "Kislev Flesh",
+   "hexCode": "#dbad75 "
+ },
+ {
+   "name": "Loren Forest",
+   "hexCode": "#5b7426 "
+ },
+ {
+   "name": "Lothern Blue",
+   "hexCode": "#3ba1d1 "
+ },
+ {
+   "name": "Macragge Blue",
+   "hexCode": "#14397a "
+ },
+ {
+   "name": "Mechanicus Standard Grey",
+   "hexCode": "#454e50 "
+ },
+ {
+   "name": "Mephiston Red",
+   "hexCode": "#9b0e05 "
+ },
+ {
+   "name": "Moot Green",
+   "hexCode": "#57aa2d "
+ },
+ {
+   "name": "Mournfang Brown",
+   "hexCode": "#681104 "
+ },
+ {
+   "name": "Naggaroth Night",
+   "hexCode": "#433656 "
+ },
+ {
+   "name": "Nurgling Green",
+   "hexCode": "#90a15f "
+ },
+ {
+   "name": "Ogryn Camo",
+   "hexCode": "#a9af42 "
+ },
+ {
+   "name": "Pallid Wych Flesh",
+   "hexCode": "#d6d5c4 "
+ },
+ {
+   "name": "Pink Horror",
+   "hexCode": "#96325c "
+ },
+ {
+   "name": "Rakarth Flesh",
+   "hexCode": "#aba495 "
+ },
+ {
+   "name": "Ratskin Flesh",
+   "hexCode": "#AD6B4C "
+ },
+ {
+   "name": "Rhinox Hide",
+   "hexCode": "#4e3433 "
+ },
+ {
+   "name": "Russ Grey",
+   "hexCode": "#55768a "
+ },
+ {
+   "name": "Screamer Pink",
+   "hexCode": "#831740 "
+ },
+ {
+   "name": "Screaming Skull",
+   "hexCode": "#d9d8a6 "
+ },
+ {
+   "name": "Skarsnik Green",
+   "hexCode": "#5e9067 "
+ },
+ {
+   "name": "Skavenblight Dinge",
+   "hexCode": "#4f4840 "
+ },
+ {
+   "name": "Skrag Brown",
+   "hexCode": "#954b00 "
+ },
+ {
+   "name": "Slaanesh Grey",
+   "hexCode": "#8E8C97 "
+ },
+ {
+   "name": "Sotek Green",
+   "hexCode": "#056976 "
+ },
+ {
+   "name": "Squig Orange",
+   "hexCode": "#b04d3e "
+ },
+ {
+   "name": "Steel Legion Drab",
+   "hexCode": "#695634 "
+ },
+ {
+   "name": "Stegadon Scale Green",
+   "hexCode": "#004261 "
+ },
+ {
+   "name": "Stormvermin Fur",
+   "hexCode": "#7d736a "
+ },
+ {
+   "name": "Straken Green",
+   "hexCode": "#6e8611 "
+ },
+ {
+   "name": "Sybarite Green",
+   "hexCode": "#36a062 "
+ },
+ {
+   "name": "Tallarn Sand",
+   "hexCode": "#ab7d00 "
+ },
+ {
+   "name": "Tau Light Ochre",
+   "hexCode": "#c26e02 "
+ },
+ {
+   "name": "Teclis Blue",
+   "hexCode": "#387bbf "
+ },
+ {
+   "name": "Temple Guard Blue",
+   "hexCode": "#35998e "
+ },
+ {
+   "name": "The Fang",
+   "hexCode": "#457479 "
+ },
+ {
+   "name": "Thousand Sons Blue",
+   "hexCode": "#18ABCC "
+ },
+ {
+   "name": "Thunderhawk Blue",
+   "hexCode": "#417074 "
+ },
+ {
+   "name": "Troll Slayer Orange",
+   "hexCode": "#eb641b "
+ },
+ {
+   "name": "Tuskgor Fur",
+   "hexCode": "#8e3734 "
+ },
+ {
+   "name": "Ulthuan Grey",
+   "hexCode": "#d2e4df "
+ },
+ {
+   "name": "Ungor Flesh",
+   "hexCode": "#dbac63 "
+ },
+ {
+   "name": "Ushtabi Bone",
+   "hexCode": "#c6c180 "
+ },
+ {
+   "name": "Waaagh! Flesh",
+   "hexCode": "#275627 "
+ },
+ {
+   "name": "Warboss Green",
+   "hexCode": "#3b7d54 "
+ },
+ {
+   "name": "Warpfiend Grey",
+   "hexCode": "#6B6A74 "
+ },
+ {
+   "name": "Warpstone Glow",
+   "hexCode": "#257326 "
+ },
+ {
+   "name": "Wazdakka Red",
+   "hexCode": "#8d0d01 "
+ },
+ {
+   "name": "White Scar",
+   "hexCode": "#FFFFFF "
+ },
+ {
+   "name": "Wild Rider Red",
+   "hexCode": "#e21516 "
+ },
+ {
+   "name": "XV-88",
+   "hexCode": "#7b4d1c "
+ },
+ {
+   "name": "Xereus Purple",
+   "hexCode": "#4b205c "
+ },
+ {
+   "name": "Yriel Yellow",
+   "hexCode": "#ffda00 "
+ },
+ {
+   "name": "Zamesi Desert",
+   "hexCode": "#e0a503 "
+ },
+ {
+   "name": "Zandri Dust",
+   "hexCode": "#a89758 "
+ }
+]
