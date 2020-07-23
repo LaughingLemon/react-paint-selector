@@ -1,0 +1,770 @@
+[
+ {
+   "name": "Alga Green AK11152",
+   "hexCode": "#555E1B"
+ },
+ {
+   "name": "Amaranth Red AK11086",
+   "hexCode": "#CF4E27"
+ },
+ {
+   "name": "Amethyst Blue AK11183",
+   "hexCode": "#332A47"
+ },
+ {
+   "name": "Anthracite Grey AK11167",
+   "hexCode": "#1C2A2B"
+ },
+ {
+   "name": "Aquatic Turquoise AK11170",
+   "hexCode": "#006557"
+ },
+ {
+   "name": "Archaic Turquoise AK11172",
+   "hexCode": "#003839"
+ },
+ {
+   "name": "Ash Grey AK11024",
+   "hexCode": "#42423A"
+ },
+ {
+   "name": "Basalt Grey AK11021",
+   "hexCode": "#5C615B"
+ },
+ {
+   "name": "Basic Skin Tone AK11052",
+   "hexCode": "#F7B57B"
+ },
+ {
+   "name": "Beige AK11030",
+   "hexCode": "#E3B949"
+ },
+ {
+   "name": "Beige Red AK11064",
+   "hexCode": "#DE935A"
+ },
+ {
+   "name": "Black AK11029",
+   "hexCode": "#101207"
+ },
+ {
+   "name": "Black Green AK11160",
+   "hexCode": "#141F0E"
+ },
+ {
+   "name": "Black Red AK11098",
+   "hexCode": "#42271E"
+ },
+ {
+   "name": "Blood Red AK11089",
+   "hexCode": "#C6231A"
+ },
+ {
+   "name": "Blue Violet AK11070",
+   "hexCode": "#886DA4"
+ },
+ {
+   "name": "Blue-Green AK11169",
+   "hexCode": "#358578"
+ },
+ {
+   "name": "Blue-Grey AK11011",
+   "hexCode": "#C7D0CD"
+ },
+ {
+   "name": "Bordeaux Red AK11094",
+   "hexCode": "#A13B2F"
+ },
+ {
+   "name": "Brick Red AK11093",
+   "hexCode": "#9E4429"
+ },
+ {
+   "name": "British Khaki AK11127",
+   "hexCode": "#654D1F"
+ },
+ {
+   "name": "Brown Rose AK11063",
+   "hexCode": "#D78464"
+ },
+ {
+   "name": "Brownish Green AK11151",
+   "hexCode": "#57460E"
+ },
+ {
+   "name": "Buff AK11031",
+   "hexCode": "#D1AC5C"
+ },
+ {
+   "name": "Burn Orange AK11079",
+   "hexCode": "#DB5E30"
+ },
+ {
+   "name": "Burnt Red AK11097",
+   "hexCode": "#543226"
+ },
+ {
+   "name": "Burnt Tin AK11198",
+   "hexCode": "#341803"
+ },
+ {
+   "name": "Burnt Umber AK11111",
+   "hexCode": "#2D1E01"
+ },
+ {
+   "name": "Cadmium Red AK11085",
+   "hexCode": "#E9582C"
+ },
+ {
+   "name": "Camouflage Green AK11156",
+   "hexCode": "#4F411C"
+ },
+ {
+   "name": "Carmine AK11091",
+   "hexCode": "#B83E26"
+ },
+ {
+   "name": "Chocolate (Chipping) AK11113",
+   "hexCode": "#331E09"
+ },
+ {
+   "name": "Clear Blue AK11214",
+   "hexCode": "#0D265C"
+ },
+ {
+   "name": "Clear Green AK11216",
+   "hexCode": "#019837"
+ },
+ {
+   "name": "Clear Orange AK11218",
+   "hexCode": "#EB5D0B"
+ },
+ {
+   "name": "Clear Red AK11213",
+   "hexCode": "#C61215"
+ },
+ {
+   "name": "Clear Smoke AK11215",
+   "hexCode": "#744D22"
+ },
+ {
+   "name": "Clear Yellow AK11217",
+   "hexCode": "#F49401"
+ },
+ {
+   "name": "Command Green AK11155",
+   "hexCode": "#312E0D"
+ },
+ {
+   "name": "Cork AK11119",
+   "hexCode": "#A17548"
+ },
+ {
+   "name": "Dark Blue AK11181",
+   "hexCode": "#1E2D4C"
+ },
+ {
+   "name": "Dark Blue-Grey AK11164",
+   "hexCode": "#4A5E53"
+ },
+ {
+   "name": "Dark Brown AK11109",
+   "hexCode": "#533914"
+ },
+ {
+   "name": "Dark Flesh AK11056",
+   "hexCode": "#EBA43A"
+ },
+ {
+   "name": "Dark Green AK11146",
+   "hexCode": "#224618"
+ },
+ {
+   "name": "Dark Green-Grey AK11133",
+   "hexCode": "#3B4D3D"
+ },
+ {
+   "name": "Dark Grey AK11022",
+   "hexCode": "#494A45"
+ },
+ {
+   "name": "Dark Prussian Blue AK11189",
+   "hexCode": "#0A0C1B"
+ },
+ {
+   "name": "Dark Rust AK11107",
+   "hexCode": "#542303"
+ },
+ {
+   "name": "Dark Sand AK11033",
+   "hexCode": "#E6BC56"
+ },
+ {
+   "name": "Dark Sea Blue AK11190",
+   "hexCode": "#0D1814"
+ },
+ {
+   "name": "Dark Sea Grey AK11015",
+   "hexCode": "#7B7873"
+ },
+ {
+   "name": "Dead Orange AK11083",
+   "hexCode": "#F54949"
+ },
+ {
+   "name": "Deck Tan AK11114",
+   "hexCode": "#CDC5B0"
+ },
+ {
+   "name": "Decomposed Flesh AK11058",
+   "hexCode": "#B7A261"
+ },
+ {
+   "name": "Deep Blue AK11182",
+   "hexCode": "#1A4067"
+ },
+ {
+   "name": "Deep Brown AK11102",
+   "hexCode": "#854A2A"
+ },
+ {
+   "name": "Deep Green AK11142",
+   "hexCode": "#1D6229"
+ },
+ {
+   "name": "Deep Orange AK11080",
+   "hexCode": "#FF5F15"
+ },
+ {
+   "name": "Deep Purple AK11074",
+   "hexCode": "#7A4967"
+ },
+ {
+   "name": "Deep Red AK11088",
+   "hexCode": "#DC211A"
+ },
+ {
+   "name": "Deep Sky Blue AK11176",
+   "hexCode": "#69B4C7"
+ },
+ {
+   "name": "Deep Violet AK11072",
+   "hexCode": "#74536E"
+ },
+ {
+   "name": "Deep Yellow AK11045",
+   "hexCode": "#FDC500"
+ },
+ {
+   "name": "Dirty Red AK11095",
+   "hexCode": "#7F190D"
+ },
+ {
+   "name": "Dirty Yellow AK11043",
+   "hexCode": "#ECA71C"
+ },
+ {
+   "name": "Ducat Blue AK11177",
+   "hexCode": "#3A889F"
+ },
+ {
+   "name": "Emerald AK11144",
+   "hexCode": "#036242"
+ },
+ {
+   "name": "English Grey AK11020",
+   "hexCode": "#6D6D65"
+ },
+ {
+   "name": "Extra Dark Green AK11153",
+   "hexCode": "#243128"
+ },
+ {
+   "name": "Faded Green AK11135",
+   "hexCode": "#7D8973"
+ },
+ {
+   "name": "French Blue AK11166",
+   "hexCode": "#545653"
+ },
+ {
+   "name": "Frog Green AK11136",
+   "hexCode": "#98B920"
+ },
+ {
+   "name": "German Field Grey AK11154",
+   "hexCode": "#423E23"
+ },
+ {
+   "name": "German Grey AK11025",
+   "hexCode": "#383830"
+ },
+ {
+   "name": "Golden Brown AK11117",
+   "hexCode": "#AB7602"
+ },
+ {
+   "name": "Golden Olive AK11139",
+   "hexCode": "#737B26"
+ },
+ {
+   "name": "Golden Yellow AK11041",
+   "hexCode": "#FEB449"
+ },
+ {
+   "name": "Graphite AK11019",
+   "hexCode": "#6C6E60"
+ },
+ {
+   "name": "Grass Green AK11140",
+   "hexCode": "#62832C"
+ },
+ {
+   "name": "Green Ochre AK11122",
+   "hexCode": "#A68236"
+ },
+ {
+   "name": "Green Sky AK11134",
+   "hexCode": "#8BB283"
+ },
+ {
+   "name": "Green-Brown AK11126",
+   "hexCode": "#705923"
+ },
+ {
+   "name": "Green-Grey AK11132",
+   "hexCode": "#DFE4BC"
+ },
+ {
+   "name": "Greenish White AK11005",
+   "hexCode": "#E4EECC"
+ },
+ {
+   "name": "Grey-Blue AK11165",
+   "hexCode": "#5F6772"
+ },
+ {
+   "name": "Grey-Brown AK11125",
+   "hexCode": "#705B3C"
+ },
+ {
+   "name": "Grey-Green AK11016",
+   "hexCode": "#808064"
+ },
+ {
+   "name": "Grim Brown AK11112",
+   "hexCode": "#201404"
+ },
+ {
+   "name": "Grimy Grey AK11008",
+   "hexCode": "#DFC998"
+ },
+ {
+   "name": "Gunship Green AK11150",
+   "hexCode": "#485335"
+ },
+ {
+   "name": "Hull Red AK11108",
+   "hexCode": "#381A02"
+ },
+ {
+   "name": "Ice Yellow AK11036",
+   "hexCode": "#FEEE8E"
+ },
+ {
+   "name": "Imperial Blue AK11180",
+   "hexCode": "#192152"
+ },
+ {
+   "name": "Intense Pink AK11065",
+   "hexCode": "#E9748F"
+ },
+ {
+   "name": "Interior Yellow Green AK11138",
+   "hexCode": "#ACA300"
+ },
+ {
+   "name": "Intermediate Blue AK11163",
+   "hexCode": "#676966"
+ },
+ {
+   "name": "Intermediate Green AK11149",
+   "hexCode": "#506E32"
+ },
+ {
+   "name": "Ivory AK11004",
+   "hexCode": "#F3EEC8"
+ },
+ {
+   "name": "Japanese Brown AK11123",
+   "hexCode": "#966D1B"
+ },
+ {
+   "name": "Laser Magenta AK11066",
+   "hexCode": "#6B102F"
+ },
+ {
+   "name": "Laser Yellow AK11048",
+   "hexCode": "#F5EF2B"
+ },
+ {
+   "name": "Lead Grey AK11023",
+   "hexCode": "#464741"
+ },
+ {
+   "name": "Leather Brown AK11110",
+   "hexCode": "#46311E"
+ },
+ {
+   "name": "Lemon Yellow AK11047",
+   "hexCode": "#FFE121"
+ },
+ {
+   "name": "Light Brown AK11100",
+   "hexCode": "#CF8139"
+ },
+ {
+   "name": "Light Earth AK11115",
+   "hexCode": "#D0B580"
+ },
+ {
+   "name": "Light Flesh AK11050",
+   "hexCode": "#FFDFB6"
+ },
+ {
+   "name": "Light Green AK11141",
+   "hexCode": "#59922B"
+ },
+ {
+   "name": "Light Orange AK11077",
+   "hexCode": "#F07A3C"
+ },
+ {
+   "name": "Light Prussian Blue AK11186",
+   "hexCode": "#132A38"
+ },
+ {
+   "name": "Light Rust AK11105",
+   "hexCode": "#DB5615"
+ },
+ {
+   "name": "Lilac AK11071",
+   "hexCode": "#656074"
+ },
+ {
+   "name": "Lime Green AK11137",
+   "hexCode": "#819F1D"
+ },
+ {
+   "name": "Lizard Green AK11145",
+   "hexCode": "#175A31"
+ },
+ {
+   "name": "Luminous Flesh AK11051",
+   "hexCode": "#EDC180"
+ },
+ {
+   "name": "Luminous Green AK11128",
+   "hexCode": "#CED642"
+ },
+ {
+   "name": "Luminous Orange AK11082",
+   "hexCode": "#F18700"
+ },
+ {
+   "name": "Magenta AK11067",
+   "hexCode": "#B1325F"
+ },
+ {
+   "name": "Mahogany Brown AK11106",
+   "hexCode": "#622A05"
+ },
+ {
+   "name": "Matt Red AK11092",
+   "hexCode": "#B5311C"
+ },
+ {
+   "name": "Medium Blue AK11184",
+   "hexCode": "#163A48"
+ },
+ {
+   "name": "Medium Flesh Tone AK11054",
+   "hexCode": "#C98230"
+ },
+ {
+   "name": "Medium Grey AK11010",
+   "hexCode": "#B6B8A2"
+ },
+ {
+   "name": "Medium Olive Green AK11148",
+   "hexCode": "#3E501C"
+ },
+ {
+   "name": "Medium Orange AK11078",
+   "hexCode": "#FA682C"
+ },
+ {
+   "name": "Medium Rust AK11103",
+   "hexCode": "#9C4B30"
+ },
+ {
+   "name": "Medium Sand AK11034",
+   "hexCode": "#CC9B35"
+ },
+ {
+   "name": "Medium Sea Grey AK11014",
+   "hexCode": "#A19B81"
+ },
+ {
+   "name": "Middle Stone AK11124",
+   "hexCode": "#8B7029"
+ },
+ {
+   "name": "Mint Green AK11143",
+   "hexCode": "#008C5F"
+ },
+ {
+   "name": "Mud Brown AK11120",
+   "hexCode": "#705331"
+ },
+ {
+   "name": "Neutral Grey AK11018",
+   "hexCode": "#696E68"
+ },
+ {
+   "name": "Ocean Blue AK11173",
+   "hexCode": "#1E3636"
+ },
+ {
+   "name": "Ochre AK11118",
+   "hexCode": "#C8942E"
+ },
+ {
+   "name": "Ochre Orange AK11099",
+   "hexCode": "#F5A75F"
+ },
+ {
+   "name": "Offwhite AK11002",
+   "hexCode": "#EBEBE1"
+ },
+ {
+   "name": "Old Rose AK11062",
+   "hexCode": "#FF977A"
+ },
+ {
+   "name": "Olive Green AK11147",
+   "hexCode": "#4C6021"
+ },
+ {
+   "name": "Orange Brown AK11101",
+   "hexCode": "#B1581E"
+ },
+ {
+   "name": "Oxford AK11188",
+   "hexCode": "#353942"
+ },
+ {
+   "name": "Pale Blue AK11161",
+   "hexCode": "#B4C4B7"
+ },
+ {
+   "name": "Pale Grey AK11013",
+   "hexCode": "#AEAFB4"
+ },
+ {
+   "name": "Pale Sand AK11032",
+   "hexCode": "#F0D682"
+ },
+ {
+   "name": "Pale Yellow AK11038",
+   "hexCode": "#FEDD58"
+ },
+ {
+   "name": "Pastel Blue AK11168",
+   "hexCode": "#BDDDB8"
+ },
+ {
+   "name": "Pastel Green AK11131",
+   "hexCode": "#A9D099"
+ },
+ {
+   "name": "Pastel Peach AK11076",
+   "hexCode": "#F59A54"
+ },
+ {
+   "name": "Pastel Pink AK11059",
+   "hexCode": "#F9C1AA"
+ },
+ {
+   "name": "Pastel Violet AK11069",
+   "hexCode": "#FFE7F5"
+ },
+ {
+   "name": "Pastel Yellow AK11037",
+   "hexCode": "#FDDA76"
+ },
+ {
+   "name": "Pistachio AK11130",
+   "hexCode": "#DCD225"
+ },
+ {
+   "name": "Purple AK11073",
+   "hexCode": "#594550"
+ },
+ {
+   "name": "Purulent Yellow AK11039",
+   "hexCode": "#ECD13C"
+ },
+ {
+   "name": "Radiant Flesh AK11053",
+   "hexCode": "#FEB254"
+ },
+ {
+   "name": "Radiant Yellow AK11046",
+   "hexCode": "#FFD409"
+ },
+ {
+   "name": "Reddish Grey AK11017",
+   "hexCode": "#7B6B52"
+ },
+ {
+   "name": "Reflective Green AK11158",
+   "hexCode": "#352E11"
+ },
+ {
+   "name": "Rock Grey AK11007",
+   "hexCode": "#C1B897"
+ },
+ {
+   "name": "Rubber Black AK11027",
+   "hexCode": "#2A261B"
+ },
+ {
+   "name": "Ruby AK11084",
+   "hexCode": "#CF4747"
+ },
+ {
+   "name": "Russian Green AK11159",
+   "hexCode": "#292907"
+ },
+ {
+   "name": "Saddle Brown AK11104",
+   "hexCode": "#683A2B"
+ },
+ {
+   "name": "Sahara Yellow AK11040",
+   "hexCode": "#B1930D"
+ },
+ {
+   "name": "Salmon AK11061",
+   "hexCode": "#F5A175"
+ },
+ {
+   "name": "Sand Yellow AK11035",
+   "hexCode": "#E9BD3A"
+ },
+ {
+   "name": "Scarlet Red AK11087",
+   "hexCode": "#D13A27"
+ },
+ {
+   "name": "Sickly Pink AK11060",
+   "hexCode": "#F7B092"
+ },
+ {
+   "name": "Silver Grey AK11006",
+   "hexCode": "#E3D8B8"
+ },
+ {
+   "name": "Sky Blue AK11175",
+   "hexCode": "#88C2CD"
+ },
+ {
+   "name": "Sky Grey AK11012",
+   "hexCode": "#BBBAB6"
+ },
+ {
+   "name": "Smoke Black AK11028",
+   "hexCode": "#2B2B21"
+ },
+ {
+   "name": "Snow Blue AK11174",
+   "hexCode": "#CAE4E1"
+ },
+ {
+   "name": "Spectrum Blue AK11162",
+   "hexCode": "#B4BEBF"
+ },
+ {
+   "name": "Star Blue AK11185",
+   "hexCode": "#014760"
+ },
+ {
+   "name": "Strong Dark Blue AK11187",
+   "hexCode": "#04151F"
+ },
+ {
+   "name": "Sunny Skin Tone AK11055",
+   "hexCode": "#FFA84F"
+ },
+ {
+   "name": "Tan Earth AK11121",
+   "hexCode": "#7D5C33"
+ },
+ {
+   "name": "Tan Yellow AK11116",
+   "hexCode": "#D19849"
+ },
+ {
+   "name": "Tenebrous Grey AK11026",
+   "hexCode": "#302C21"
+ },
+ {
+   "name": "Turquoise AK11171",
+   "hexCode": "#004A4D"
+ },
+ {
+   "name": "Ultramarine AK11179",
+   "hexCode": "#1E357B"
+ },
+ {
+   "name": "US Dark Green AK11157",
+   "hexCode": "#423910"
+ },
+ {
+   "name": "Vampiric Flesh AK11057",
+   "hexCode": "#CFBC81"
+ },
+ {
+   "name": "Vermillion AK11090",
+   "hexCode": "#C44C33"
+ },
+ {
+   "name": "Violet Red AK11075",
+   "hexCode": "#573536"
+ },
+ {
+   "name": "Volcanic Yellow AK11042",
+   "hexCode": "#F09218"
+ },
+ {
+   "name": "Warm Grey AK11009",
+   "hexCode": "#B6A88B"
+ },
+ {
+   "name": "White AK11001",
+   "hexCode": "#FFFFFF"
+ },
+ {
+   "name": "White Grey AK11003",
+   "hexCode": "#F6F6EE"
+ },
+ {
+   "name": "Wine Red AK11096",
+   "hexCode": "#69140D"
+ },
+ {
+   "name": "Yellow AK11044",
+   "hexCode": "#FAB710"
+ }
+]
