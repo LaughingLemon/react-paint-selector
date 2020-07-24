@@ -4,7 +4,7 @@ import vallejoGame from "../../json/Vallejo_Game_Colours.json";
 import vallejoModel from "../../json/Vallejo_Model_Colours.json";
 import akInteractive from "../../json/AK_Interactive.json";
 import PaintSelection from "../PaintSelection";
-import "./style.css"
+import "./style.css";
 
 export default (props) => (
     <div className={"PaintDisplay"}>
