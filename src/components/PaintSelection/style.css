@@ -19,8 +19,9 @@
 .colour-boxes {
     float: left;
     width: 100px;
+    height: 100px;
 }
 
 .box {
-    height: 100px;
+    /* height: 100px; */
 }

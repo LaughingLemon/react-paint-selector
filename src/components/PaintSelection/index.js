@@ -12,7 +12,7 @@ export default (props) => {
     const outerColour = "#" + props.value.toString(16).padStart(6, '0'); 
 
     return (
-        <div>
+        <div className={"w3-card-4"}>
             <div className={"colour-boxes box"}>
                 <div className={"outer-box"} style={{ backgroundColor: outerColour }}>
                     <div className={"inner-box"} style={{ backgroundColor: innerColour }}>&nbsp;</div>
@@ -22,6 +22,7 @@ export default (props) => {
                 <div>{props.name}</div>
                 <div>{nearestColour.name}</div>
                 <div>{innerColour}</div>
+                <div>{nearestColour.distance.toFixed(0)}</div>
             </div>
         </div>
     );

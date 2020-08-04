@@ -35,7 +35,6 @@ class App extends React.Component {
     onColourSelected(colour, evt) {
       evt.preventDefault();
 
-      console.log("colour", colour);
       this.setState(oldState => (
         {
           ...oldState,
@@ -47,8 +46,6 @@ class App extends React.Component {
     onColourInputChanged(evt) {
       const colourText = evt.target.value;
       evt.preventDefault();
-
-      console.log("colourText", colourText);
 
       this.setState(oldState => (
         {
