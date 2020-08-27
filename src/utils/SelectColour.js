@@ -16,8 +16,19 @@ const findNearestPaintColour = (hexCode, paintColours) => {
     });
 
     const sortedColours = paintColours.sort((colour1, colour2) => (colour1.distance - colour2.distance));
+    const nearestColor = sortedColours[0];
+    
+    if (!nearestColor) {
+        return {
+            brand: "None",
+            name: "No Match",
+            ref: "",
+            hexCode: hexCode,
+            distance: 0.0
+        };
+    }
 
-    return sortedColours[0];
+    return nearestColor;
 };
 
 export default findNearestPaintColour;

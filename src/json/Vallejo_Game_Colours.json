@@ -1,346 +1,518 @@
 [
- {
-   "name": "Beasty Brown",
-   "hexCode": "#55432d "
- },
- {
-   "name": "Black",
-   "hexCode": "#000000 "
- },
- {
-   "name": "Bloody Red",
-   "hexCode": "#bf282e "
- },
- {
-   "name": "Bone White",
-   "hexCode": "#e8be86 "
- },
- {
-   "name": "Bronze Fleshtone",
-   "hexCode": "#db945c "
- },
- {
-   "name": "Cadmium Skin",
-   "hexCode": "#fab78a "
- },
- {
-   "name": "Camoflage Green",
-   "hexCode": "#71753a "
- },
- {
-   "name": "Cayman Green",
-   "hexCode": "#285648 "
- },
- {
-   "name": "Charred Brown",
-   "hexCode": "#39343b "
- },
- {
-   "name": "Cold Grey",
-   "hexCode": "#54646d "
- },
- {
-   "name": "Dark Blue",
-   "hexCode": "#2b265d "
- },
- {
-   "name": "Dark Fleshtone",
-   "hexCode": "#4f2b26 "
- },
- {
-   "name": "Dark Green",
-   "hexCode": "#083c2a "
- },
- {
-   "name": "Dead Flesh",
-   "hexCode": "#bcb686 "
- },
- {
-   "name": "Dead White",
-   "hexCode": "#ffffff "
- },
- {
-   "name": "Desert Yellow",
-   "hexCode": "#8e7845 "
- },
- {
-   "name": "Dwarf Skin",
-   "hexCode": "#cc7c67 "
- },
- {
-   "name": "Earth",
-   "hexCode": "#6f563d "
- },
- {
-   "name": "Electric Blue",
-   "hexCode": "#008cbf "
- },
- {
-   "name": "Elf Skintone",
-   "hexCode": "#f8a070 "
- },
- {
-   "name": "Elfic Flesh",
-   "hexCode": "#cdc29c "
- },
- {
-   "name": "Filthy Brown",
-   "hexCode": "#f58d2b "
- },
- {
-   "name": "Fluo Green",
-   "hexCode": "#9dcd64 "
- },
- {
-   "name": "Fluo Yellow",
-   "hexCode": "#eeea50 "
- },
- {
-   "name": "Foul Green",
-   "hexCode": "#239378 "
- },
- {
-   "name": "Ghost Grey",
-   "hexCode": "#a7c5db "
- },
- {
-   "name": "Glacier Blue",
-   "hexCode": "#acd0ee "
- },
- {
-   "name": "Goblin Green",
-   "hexCode": "#23743c "
- },
- {
-   "name": "Gold Yellow",
-   "hexCode": "#fdb318 "
- },
- {
-   "name": "Gory Red",
-   "hexCode": "#810504 "
- },
- {
-   "name": "Heavy Black Green",
-   "hexCode": "#18433d "
- },
- {
-   "name": "Heavy Blue",
-   "hexCode": "#29556d "
- },
- {
-   "name": "Heavy Blue Grey",
-   "hexCode": "#9ca7a7 "
- },
- {
-   "name": "Heavy Brown",
-   "hexCode": "#705d41 "
- },
- {
-   "name": "Heavy Charcoal",
-   "hexCode": "#1c2e2e "
- },
- {
-   "name": "Heavy Gold Brown",
-   "hexCode": "#ba8636 "
- },
- {
-   "name": "Heavy Green",
-   "hexCode": "#566840 "
- },
- {
-   "name": "Heavy Grey",
-   "hexCode": "#626d54 "
- },
- {
-   "name": "Heavy Khaki",
-   "hexCode": "#9d965d "
- },
- {
-   "name": "Heavy Ochre",
-   "hexCode": "#a87536 "
- },
- {
-   "name": "Heavy Orange",
-   "hexCode": "#ee5527 "
- },
- {
-   "name": "Heavy Red",
-   "hexCode": "#943238 "
- },
- {
-   "name": "Heavy Sienna",
-   "hexCode": "#744642 "
- },
- {
-   "name": "Heavy Skintone",
-   "hexCode": "#aa7b62 "
- },
- {
-   "name": "Heavy Violet",
-   "hexCode": "#4c2e65 "
- },
- {
-   "name": "Heavy Warm Grey",
-   "hexCode": "#939066 "
- },
- {
-   "name": "Hexed Lichen",
-   "hexCode": "#34274d "
- },
- {
-   "name": "Hot Orange",
-   "hexCode": "#e43027 "
- },
- {
-   "name": "Imperial Purple",
-   "hexCode": "#211a4b "
- },
- {
-   "name": "Jade Green",
-   "hexCode": "#128379 "
- },
- {
-   "name": "Khaki",
-   "hexCode": "#8c806d "
- },
- {
-   "name": "Leather Brown",
-   "hexCode": "#7b5d2a "
- },
- {
-   "name": "Livery Green",
-   "hexCode": "#9ece65 "
- },
- {
-   "name": "Magic Blue",
-   "hexCode": "#024381 "
- },
- {
-   "name": "Moon Yellow",
-   "hexCode": "#fff103 "
- },
- {
-   "name": "Mutation Green",
-   "hexCode": "#296934 "
- },
- {
-   "name": "Night Blue",
-   "hexCode": "#19183f "
- },
- {
-   "name": "Offwhite",
-   "hexCode": "#f5f4da "
- },
- {
-   "name": "Orange Fire",
-   "hexCode": "#f1652e "
- },
- {
-   "name": "Pale Flesh",
-   "hexCode": "#f6bdb3 "
- },
- {
-   "name": "Pale Yellow",
-   "hexCode": "#d5c179 "
- },
- {
-   "name": "Parasite Brown",
-   "hexCode": "#b1481f "
- },
- {
-   "name": "Plague Brown",
-   "hexCode": "#cc9b34 "
- },
- {
-   "name": "Rosy Flesh",
-   "hexCode": "#f89e84 "
- },
- {
-   "name": "Royal Purple",
-   "hexCode": "#23264f "
- },
- {
-   "name": "Scarlet \"Blood\" Red",
-   "hexCode": "#b72a38 "
- },
- {
-   "name": "Scarlet Red",
-   "hexCode": "#741330 "
- },
- {
-   "name": "Scorpion Green",
-   "hexCode": "#48b851 "
- },
- {
-   "name": "Scrofulous Brown",
-   "hexCode": "#d68030 "
- },
- {
-   "name": "Scurvy Green",
-   "hexCode": "#09474e "
- },
- {
-   "name": "Sick Green",
-   "hexCode": "#096638 "
- },
- {
-   "name": "Smokey Ink",
-   "hexCode": "#2b2325 "
- },
- {
-   "name": "Sombre Grey",
-   "hexCode": "#4c5c7d "
- },
- {
-   "name": "Squid Pink",
-   "hexCode": "#da7fb5 "
- },
- {
-   "name": "Steel Grey",
-   "hexCode": "#64889d "
- },
- {
-   "name": "Stonewall Grey",
-   "hexCode": "#828e95 "
- },
- {
-   "name": "Stormy Night",
-   "hexCode": "#1f1a4f "
- },
- {
-   "name": "Sun Yellow",
-   "hexCode": "#ffcf07 "
- },
- {
-   "name": "Tan",
-   "hexCode": "#9f4746 "
- },
- {
-   "name": "Terracota",
-   "hexCode": "#6b1306 "
- },
- {
-   "name": "Turquoise",
-   "hexCode": "#03676f "
- },
- {
-   "name": "Ultramarine Blue",
-   "hexCode": "#373592 "
- },
- {
-   "name": "Verdigris",
-   "hexCode": "#b3ceca "
- },
- {
-   "name": "Warlord Purple",
-   "hexCode": "#7d1a44 "
- },
- {
-   "name": "Wolf Grey",
-   "hexCode": "#90a2bc "
- },
- {
-   "name": "Yellow Olive",
-   "hexCode": "#063b2f "
- }
+    {
+        "brand": "Vallejo Game",
+        "name": "Beasty Brown",
+        "ref": "",
+        "hexCode": "#55432d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Black",
+        "ref": "",
+        "hexCode": "#000000 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Bloody Red",
+        "ref": "",
+        "hexCode": "#bf282e "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Bone White",
+        "ref": "",
+        "hexCode": "#e8be86 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Bronze Fleshtone",
+        "ref": "",
+        "hexCode": "#db945c "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Cadmium Skin",
+        "ref": "",
+        "hexCode": "#fab78a "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Camoflage Green",
+        "ref": "",
+        "hexCode": "#71753a "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Cayman Green",
+        "ref": "",
+        "hexCode": "#285648 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Charred Brown",
+        "ref": "",
+        "hexCode": "#39343b "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Cold Grey",
+        "ref": "",
+        "hexCode": "#54646d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dark Blue",
+        "ref": "",
+        "hexCode": "#2b265d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dark Fleshtone",
+        "ref": "",
+        "hexCode": "#4f2b26 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dark Green",
+        "ref": "",
+        "hexCode": "#083c2a "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dead Flesh",
+        "ref": "",
+        "hexCode": "#bcb686 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dead White",
+        "ref": "",
+        "hexCode": "#ffffff "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Desert Yellow",
+        "ref": "",
+        "hexCode": "#8e7845 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dwarf Skin",
+        "ref": "",
+        "hexCode": "#cc7c67 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Earth",
+        "ref": "",
+        "hexCode": "#6f563d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Electric Blue",
+        "ref": "",
+        "hexCode": "#008cbf "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Elf Skintone",
+        "ref": "",
+        "hexCode": "#f8a070 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Elfic Flesh",
+        "ref": "",
+        "hexCode": "#cdc29c "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Filthy Brown",
+        "ref": "",
+        "hexCode": "#f58d2b "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Fluo Green",
+        "ref": "",
+        "hexCode": "#9dcd64 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Fluo Yellow",
+        "ref": "",
+        "hexCode": "#eeea50 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Foul Green",
+        "ref": "",
+        "hexCode": "#239378 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Ghost Grey",
+        "ref": "",
+        "hexCode": "#a7c5db "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Glacier Blue",
+        "ref": "",
+        "hexCode": "#acd0ee "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Goblin Green",
+        "ref": "",
+        "hexCode": "#23743c "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Gold Yellow",
+        "ref": "",
+        "hexCode": "#fdb318 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Gory Red",
+        "ref": "",
+        "hexCode": "#810504 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Black Green",
+        "ref": "",
+        "hexCode": "#18433d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Blue",
+        "ref": "",
+        "hexCode": "#29556d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Blue Grey",
+        "ref": "",
+        "hexCode": "#9ca7a7 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Brown",
+        "ref": "",
+        "hexCode": "#705d41 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Charcoal",
+        "ref": "",
+        "hexCode": "#1c2e2e "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Gold Brown",
+        "ref": "",
+        "hexCode": "#ba8636 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Green",
+        "ref": "",
+        "hexCode": "#566840 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Grey",
+        "ref": "",
+        "hexCode": "#626d54 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Khaki",
+        "ref": "",
+        "hexCode": "#9d965d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Ochre",
+        "ref": "",
+        "hexCode": "#a87536 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Orange",
+        "ref": "",
+        "hexCode": "#ee5527 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Red",
+        "ref": "",
+        "hexCode": "#943238 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Sienna",
+        "ref": "",
+        "hexCode": "#744642 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Skintone",
+        "ref": "",
+        "hexCode": "#aa7b62 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Violet",
+        "ref": "",
+        "hexCode": "#4c2e65 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Heavy Warm Grey",
+        "ref": "",
+        "hexCode": "#939066 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Hexed Lichen",
+        "ref": "",
+        "hexCode": "#34274d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Hot Orange",
+        "ref": "",
+        "hexCode": "#e43027 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Imperial Purple",
+        "ref": "",
+        "hexCode": "#211a4b "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Jade Green",
+        "ref": "",
+        "hexCode": "#128379 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Khaki",
+        "ref": "",
+        "hexCode": "#8c806d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Leather Brown",
+        "ref": "",
+        "hexCode": "#7b5d2a "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Livery Green",
+        "ref": "",
+        "hexCode": "#9ece65 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Magic Blue",
+        "ref": "",
+        "hexCode": "#024381 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Moon Yellow",
+        "ref": "",
+        "hexCode": "#fff103 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Mutation Green",
+        "ref": "",
+        "hexCode": "#296934 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Night Blue",
+        "ref": "",
+        "hexCode": "#19183f "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Offwhite",
+        "ref": "",
+        "hexCode": "#f5f4da "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Orange Fire",
+        "ref": "",
+        "hexCode": "#f1652e "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Pale Flesh",
+        "ref": "",
+        "hexCode": "#f6bdb3 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Pale Yellow",
+        "ref": "",
+        "hexCode": "#d5c179 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Parasite Brown",
+        "ref": "",
+        "hexCode": "#b1481f "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Plague Brown",
+        "ref": "",
+        "hexCode": "#cc9b34 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Rosy Flesh",
+        "ref": "",
+        "hexCode": "#f89e84 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Royal Purple",
+        "ref": "",
+        "hexCode": "#23264f "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Scarlet \"Blood\" Red",
+        "ref": "",
+        "hexCode": "#b72a38 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Scarlet Red",
+        "ref": "",
+        "hexCode": "#741330 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Scorpion Green",
+        "ref": "",
+        "hexCode": "#48b851 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Scrofulous Brown",
+        "ref": "",
+        "hexCode": "#d68030 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Scurvy Green",
+        "ref": "",
+        "hexCode": "#09474e "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Sick Green",
+        "ref": "",
+        "hexCode": "#096638 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Smokey Ink",
+        "ref": "",
+        "hexCode": "#2b2325 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Sombre Grey",
+        "ref": "",
+        "hexCode": "#4c5c7d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Squid Pink",
+        "ref": "",
+        "hexCode": "#da7fb5 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Steel Grey",
+        "ref": "",
+        "hexCode": "#64889d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Stonewall Grey",
+        "ref": "",
+        "hexCode": "#828e95 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Stormy Night",
+        "ref": "",
+        "hexCode": "#1f1a4f "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Sun Yellow",
+        "ref": "",
+        "hexCode": "#ffcf07 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Tan",
+        "ref": "",
+        "hexCode": "#9f4746 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Terracota",
+        "ref": "",
+        "hexCode": "#6b1306 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Turquoise",
+        "ref": "",
+        "hexCode": "#03676f "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Ultramarine Blue",
+        "ref": "",
+        "hexCode": "#373592 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Verdigris",
+        "ref": "",
+        "hexCode": "#b3ceca "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Warlord Purple",
+        "ref": "",
+        "hexCode": "#7d1a44 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Wolf Grey",
+        "ref": "",
+        "hexCode": "#90a2bc "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Yellow Olive",
+        "ref": "",
+        "hexCode": "#063b2f "
+    }
 ]

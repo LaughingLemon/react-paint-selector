@@ -1,386 +1,578 @@
 [
- {
-   "name": "Abaddon Black",
-   "hexCode": "#010100 "
- },
- {
-   "name": "Administratum Grey",
-   "hexCode": "#9da299 "
- },
- {
-   "name": "Ahriman Blue",
-   "hexCode": "#1F8C9C "
- },
- {
-   "name": "Alaitoc Blue",
-   "hexCode": "#2e5689 "
- },
- {
-   "name": "Altdorf Guard Blue",
-   "hexCode": "#274b9b "
- },
- {
-   "name": "Averland Sunset",
-   "hexCode": "#fbba00 "
- },
- {
-   "name": "Balor Brown",
-   "hexCode": "#915e02 "
- },
- {
-   "name": "Baneblade Brown",
-   "hexCode": "#99826b "
- },
- {
-   "name": "Bestigor Flesh",
-   "hexCode": "#D38A57 "
- },
- {
-   "name": "Bugmans Glow",
-   "hexCode": "#8c5144 "
- },
- {
-   "name": "Cadian Fleshtone",
-   "hexCode": "#cb7953 "
- },
- {
-   "name": "Caledor Sky",
-   "hexCode": "#38689c "
- },
- {
-   "name": "Calgar Blue",
-   "hexCode": "#456eb5 "
- },
- {
-   "name": "Caliban Green",
-   "hexCode": "#003b1d "
- },
- {
-   "name": "Castellan Green",
-   "hexCode": "#384d20 "
- },
- {
-   "name": "Celestra Grey",
-   "hexCode": "#9caeae "
- },
- {
-   "name": "Ceramite White",
-   "hexCode": "#ffffff "
- },
- {
-   "name": "Daemonette Hide",
-   "hexCode": "#696685 "
- },
- {
-   "name": "Dark Reaper",
-   "hexCode": "#3B5150 "
- },
- {
-   "name": "Dawnstone",
-   "hexCode": "#7b7e74 "
- },
- {
-   "name": "Death Guard Armor",
-   "hexCode": "#848A66 "
- },
- {
-   "name": "Death World Forest",
-   "hexCode": "#666c2d "
- },
- {
-   "name": "Deathclaw Brown",
-   "hexCode": "#ba6952 "
- },
- {
-   "name": "Doombull Brown",
-   "hexCode": "#5e0605 "
- },
- {
-   "name": "Dryad Bark",
-   "hexCode": "#3b342e "
- },
- {
-   "name": "Elysian Green",
-   "hexCode": "#81932e "
- },
- {
-   "name": "Emperors Children",
-   "hexCode": "#bd3f75 "
- },
- {
-   "name": "Eshin Grey",
-   "hexCode": "#535659 "
- },
- {
-   "name": "Evil Suns Scarlet",
-   "hexCode": "#c00b0c "
- },
- {
-   "name": "Fenrisian Grey",
-   "hexCode": "#789ebb "
- },
- {
-   "name": "Fire Dragon Bright",
-   "hexCode": "#f1844a "
- },
- {
-   "name": "Flash Gitz Yellow",
-   "hexCode": "#ffee00 "
- },
- {
-   "name": "Flayed One Flesh",
-   "hexCode": "#f3ca8a "
- },
- {
-   "name": "Genestealer Purple",
-   "hexCode": "#7c5ca4 "
- },
- {
-   "name": "Gorthor Brown",
-   "hexCode": "#6e4e46 "
- },
- {
-   "name": "Hoeth Blue",
-   "hexCode": "#4f7fb5 "
- },
- {
-   "name": "Incubi Darkness",
-   "hexCode": "#094345 "
- },
- {
-   "name": "Jokaero Orange",
-   "hexCode": "#e6200f "
- },
- {
-   "name": "Kabalite Green",
-   "hexCode": "#008660 "
- },
- {
-   "name": "Kantor Blue",
-   "hexCode": "#06234f "
- },
- {
-   "name": "Karak Stone",
-   "hexCode": "#c1a069 "
- },
- {
-   "name": "Khorne Red",
-   "hexCode": "#6a0a01 "
- },
- {
-   "name": "Kislev Flesh",
-   "hexCode": "#dbad75 "
- },
- {
-   "name": "Loren Forest",
-   "hexCode": "#5b7426 "
- },
- {
-   "name": "Lothern Blue",
-   "hexCode": "#3ba1d1 "
- },
- {
-   "name": "Macragge Blue",
-   "hexCode": "#14397a "
- },
- {
-   "name": "Mechanicus Standard Grey",
-   "hexCode": "#454e50 "
- },
- {
-   "name": "Mephiston Red",
-   "hexCode": "#9b0e05 "
- },
- {
-   "name": "Moot Green",
-   "hexCode": "#57aa2d "
- },
- {
-   "name": "Mournfang Brown",
-   "hexCode": "#681104 "
- },
- {
-   "name": "Naggaroth Night",
-   "hexCode": "#433656 "
- },
- {
-   "name": "Nurgling Green",
-   "hexCode": "#90a15f "
- },
- {
-   "name": "Ogryn Camo",
-   "hexCode": "#a9af42 "
- },
- {
-   "name": "Pallid Wych Flesh",
-   "hexCode": "#d6d5c4 "
- },
- {
-   "name": "Pink Horror",
-   "hexCode": "#96325c "
- },
- {
-   "name": "Rakarth Flesh",
-   "hexCode": "#aba495 "
- },
- {
-   "name": "Ratskin Flesh",
-   "hexCode": "#AD6B4C "
- },
- {
-   "name": "Rhinox Hide",
-   "hexCode": "#4e3433 "
- },
- {
-   "name": "Russ Grey",
-   "hexCode": "#55768a "
- },
- {
-   "name": "Screamer Pink",
-   "hexCode": "#831740 "
- },
- {
-   "name": "Screaming Skull",
-   "hexCode": "#d9d8a6 "
- },
- {
-   "name": "Skarsnik Green",
-   "hexCode": "#5e9067 "
- },
- {
-   "name": "Skavenblight Dinge",
-   "hexCode": "#4f4840 "
- },
- {
-   "name": "Skrag Brown",
-   "hexCode": "#954b00 "
- },
- {
-   "name": "Slaanesh Grey",
-   "hexCode": "#8E8C97 "
- },
- {
-   "name": "Sotek Green",
-   "hexCode": "#056976 "
- },
- {
-   "name": "Squig Orange",
-   "hexCode": "#b04d3e "
- },
- {
-   "name": "Steel Legion Drab",
-   "hexCode": "#695634 "
- },
- {
-   "name": "Stegadon Scale Green",
-   "hexCode": "#004261 "
- },
- {
-   "name": "Stormvermin Fur",
-   "hexCode": "#7d736a "
- },
- {
-   "name": "Straken Green",
-   "hexCode": "#6e8611 "
- },
- {
-   "name": "Sybarite Green",
-   "hexCode": "#36a062 "
- },
- {
-   "name": "Tallarn Sand",
-   "hexCode": "#ab7d00 "
- },
- {
-   "name": "Tau Light Ochre",
-   "hexCode": "#c26e02 "
- },
- {
-   "name": "Teclis Blue",
-   "hexCode": "#387bbf "
- },
- {
-   "name": "Temple Guard Blue",
-   "hexCode": "#35998e "
- },
- {
-   "name": "The Fang",
-   "hexCode": "#457479 "
- },
- {
-   "name": "Thousand Sons Blue",
-   "hexCode": "#18ABCC "
- },
- {
-   "name": "Thunderhawk Blue",
-   "hexCode": "#417074 "
- },
- {
-   "name": "Troll Slayer Orange",
-   "hexCode": "#eb641b "
- },
- {
-   "name": "Tuskgor Fur",
-   "hexCode": "#8e3734 "
- },
- {
-   "name": "Ulthuan Grey",
-   "hexCode": "#d2e4df "
- },
- {
-   "name": "Ungor Flesh",
-   "hexCode": "#dbac63 "
- },
- {
-   "name": "Ushtabi Bone",
-   "hexCode": "#c6c180 "
- },
- {
-   "name": "Waaagh! Flesh",
-   "hexCode": "#275627 "
- },
- {
-   "name": "Warboss Green",
-   "hexCode": "#3b7d54 "
- },
- {
-   "name": "Warpfiend Grey",
-   "hexCode": "#6B6A74 "
- },
- {
-   "name": "Warpstone Glow",
-   "hexCode": "#257326 "
- },
- {
-   "name": "Wazdakka Red",
-   "hexCode": "#8d0d01 "
- },
- {
-   "name": "White Scar",
-   "hexCode": "#FFFFFF "
- },
- {
-   "name": "Wild Rider Red",
-   "hexCode": "#e21516 "
- },
- {
-   "name": "XV-88",
-   "hexCode": "#7b4d1c "
- },
- {
-   "name": "Xereus Purple",
-   "hexCode": "#4b205c "
- },
- {
-   "name": "Yriel Yellow",
-   "hexCode": "#ffda00 "
- },
- {
-   "name": "Zamesi Desert",
-   "hexCode": "#e0a503 "
- },
- {
-   "name": "Zandri Dust",
-   "hexCode": "#a89758 "
- }
+    {
+        "brand": "Citadel",
+        "name": "Abaddon Black",
+        "ref": "",
+        "hexCode": "#010100 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Administratum Grey",
+        "ref": "",
+        "hexCode": "#9da299 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ahriman Blue",
+        "ref": "",
+        "hexCode": "#1F8C9C "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Alaitoc Blue",
+        "ref": "",
+        "hexCode": "#2e5689 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Altdorf Guard Blue",
+        "ref": "",
+        "hexCode": "#274b9b "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Averland Sunset",
+        "ref": "",
+        "hexCode": "#fbba00 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Balor Brown",
+        "ref": "",
+        "hexCode": "#915e02 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Baneblade Brown",
+        "ref": "",
+        "hexCode": "#99826b "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Bestigor Flesh",
+        "ref": "",
+        "hexCode": "#D38A57 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Bugmans Glow",
+        "ref": "",
+        "hexCode": "#8c5144 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Cadian Fleshtone",
+        "ref": "",
+        "hexCode": "#cb7953 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Caledor Sky",
+        "ref": "",
+        "hexCode": "#38689c "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Calgar Blue",
+        "ref": "",
+        "hexCode": "#456eb5 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Caliban Green",
+        "ref": "",
+        "hexCode": "#003b1d "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Castellan Green",
+        "ref": "",
+        "hexCode": "#384d20 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Celestra Grey",
+        "ref": "",
+        "hexCode": "#9caeae "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ceramite White",
+        "ref": "",
+        "hexCode": "#ffffff "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Daemonette Hide",
+        "ref": "",
+        "hexCode": "#696685 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Dark Reaper",
+        "ref": "",
+        "hexCode": "#3B5150 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Dawnstone",
+        "ref": "",
+        "hexCode": "#7b7e74 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Death Guard Armor",
+        "ref": "",
+        "hexCode": "#848A66 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Death World Forest",
+        "ref": "",
+        "hexCode": "#666c2d "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Deathclaw Brown",
+        "ref": "",
+        "hexCode": "#ba6952 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Doombull Brown",
+        "ref": "",
+        "hexCode": "#5e0605 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Dryad Bark",
+        "ref": "",
+        "hexCode": "#3b342e "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Elysian Green",
+        "ref": "",
+        "hexCode": "#81932e "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Emperors Children",
+        "ref": "",
+        "hexCode": "#bd3f75 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Eshin Grey",
+        "ref": "",
+        "hexCode": "#535659 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Evil Suns Scarlet",
+        "ref": "",
+        "hexCode": "#c00b0c "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Fenrisian Grey",
+        "ref": "",
+        "hexCode": "#789ebb "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Fire Dragon Bright",
+        "ref": "",
+        "hexCode": "#f1844a "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Flash Gitz Yellow",
+        "ref": "",
+        "hexCode": "#ffee00 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Flayed One Flesh",
+        "ref": "",
+        "hexCode": "#f3ca8a "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Genestealer Purple",
+        "ref": "",
+        "hexCode": "#7c5ca4 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Gorthor Brown",
+        "ref": "",
+        "hexCode": "#6e4e46 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Hoeth Blue",
+        "ref": "",
+        "hexCode": "#4f7fb5 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Incubi Darkness",
+        "ref": "",
+        "hexCode": "#094345 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Jokaero Orange",
+        "ref": "",
+        "hexCode": "#e6200f "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Kabalite Green",
+        "ref": "",
+        "hexCode": "#008660 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Kantor Blue",
+        "ref": "",
+        "hexCode": "#06234f "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Karak Stone",
+        "ref": "",
+        "hexCode": "#c1a069 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Khorne Red",
+        "ref": "",
+        "hexCode": "#6a0a01 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Kislev Flesh",
+        "ref": "",
+        "hexCode": "#dbad75 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Loren Forest",
+        "ref": "",
+        "hexCode": "#5b7426 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Lothern Blue",
+        "ref": "",
+        "hexCode": "#3ba1d1 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Macragge Blue",
+        "ref": "",
+        "hexCode": "#14397a "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Mechanicus Standard Grey",
+        "ref": "",
+        "hexCode": "#454e50 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Mephiston Red",
+        "ref": "",
+        "hexCode": "#9b0e05 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Moot Green",
+        "ref": "",
+        "hexCode": "#57aa2d "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Mournfang Brown",
+        "ref": "",
+        "hexCode": "#681104 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Naggaroth Night",
+        "ref": "",
+        "hexCode": "#433656 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Nurgling Green",
+        "ref": "",
+        "hexCode": "#90a15f "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ogryn Camo",
+        "ref": "",
+        "hexCode": "#a9af42 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Pallid Wych Flesh",
+        "ref": "",
+        "hexCode": "#d6d5c4 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Pink Horror",
+        "ref": "",
+        "hexCode": "#96325c "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Rakarth Flesh",
+        "ref": "",
+        "hexCode": "#aba495 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ratskin Flesh",
+        "ref": "",
+        "hexCode": "#AD6B4C "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Rhinox Hide",
+        "ref": "",
+        "hexCode": "#4e3433 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Russ Grey",
+        "ref": "",
+        "hexCode": "#55768a "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Screamer Pink",
+        "ref": "",
+        "hexCode": "#831740 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Screaming Skull",
+        "ref": "",
+        "hexCode": "#d9d8a6 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Skarsnik Green",
+        "ref": "",
+        "hexCode": "#5e9067 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Skavenblight Dinge",
+        "ref": "",
+        "hexCode": "#4f4840 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Skrag Brown",
+        "ref": "",
+        "hexCode": "#954b00 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Slaanesh Grey",
+        "ref": "",
+        "hexCode": "#8E8C97 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Sotek Green",
+        "ref": "",
+        "hexCode": "#056976 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Squig Orange",
+        "ref": "",
+        "hexCode": "#b04d3e "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Steel Legion Drab",
+        "ref": "",
+        "hexCode": "#695634 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Stegadon Scale Green",
+        "ref": "",
+        "hexCode": "#004261 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Stormvermin Fur",
+        "ref": "",
+        "hexCode": "#7d736a "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Straken Green",
+        "ref": "",
+        "hexCode": "#6e8611 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Sybarite Green",
+        "ref": "",
+        "hexCode": "#36a062 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Tallarn Sand",
+        "ref": "",
+        "hexCode": "#ab7d00 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Tau Light Ochre",
+        "ref": "",
+        "hexCode": "#c26e02 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Teclis Blue",
+        "ref": "",
+        "hexCode": "#387bbf "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Temple Guard Blue",
+        "ref": "",
+        "hexCode": "#35998e "
+    },
+    {
+        "brand": "Citadel",
+        "name": "The Fang",
+        "ref": "",
+        "hexCode": "#457479 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Thousand Sons Blue",
+        "ref": "",
+        "hexCode": "#18ABCC "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Thunderhawk Blue",
+        "ref": "",
+        "hexCode": "#417074 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Troll Slayer Orange",
+        "ref": "",
+        "hexCode": "#eb641b "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Tuskgor Fur",
+        "ref": "",
+        "hexCode": "#8e3734 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ulthuan Grey",
+        "ref": "",
+        "hexCode": "#d2e4df "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ungor Flesh",
+        "ref": "",
+        "hexCode": "#dbac63 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Ushtabi Bone",
+        "ref": "",
+        "hexCode": "#c6c180 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Waaagh! Flesh",
+        "ref": "",
+        "hexCode": "#275627 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Warboss Green",
+        "ref": "",
+        "hexCode": "#3b7d54 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Warpfiend Grey",
+        "ref": "",
+        "hexCode": "#6B6A74 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Warpstone Glow",
+        "ref": "",
+        "hexCode": "#257326 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Wazdakka Red",
+        "ref": "",
+        "hexCode": "#8d0d01 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "White Scar",
+        "ref": "",
+        "hexCode": "#FFFFFF "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Wild Rider Red",
+        "ref": "",
+        "hexCode": "#e21516 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "XV-88",
+        "ref": "",
+        "hexCode": "#7b4d1c "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Xereus Purple",
+        "ref": "",
+        "hexCode": "#4b205c "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Yriel Yellow",
+        "ref": "",
+        "hexCode": "#ffda00 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Zamesi Desert",
+        "ref": "",
+        "hexCode": "#e0a503 "
+    },
+    {
+        "brand": "Citadel",
+        "name": "Zandri Dust",
+        "ref": "",
+        "hexCode": "#a89758 "
+    }
 ]

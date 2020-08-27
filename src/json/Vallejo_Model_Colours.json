@@ -1,678 +1,1016 @@
 [
- {
-   "name": "Amaranth Red",
-   "hexCode": "#cc4338 "
- },
- {
-   "name": "Andrea Blue",
-   "hexCode": "#008dc9 "
- },
- {
-   "name": "Azure",
-   "hexCode": "#717cad "
- },
- {
-   "name": "Basalt Grey",
-   "hexCode": "#576860 "
- },
- {
-   "name": "Basic Skintone",
-   "hexCode": "#fbbc8c "
- },
- {
-   "name": "Beige",
-   "hexCode": "#dbc58e "
- },
- {
-   "name": "Beige Brown",
-   "hexCode": "#78584a "
- },
- {
-   "name": "Beige Red",
-   "hexCode": "#c79166 "
- },
- {
-   "name": "Black",
-   "hexCode": "#252b31 "
- },
- {
-   "name": "Black Green",
-   "hexCode": "#19423e "
- },
- {
-   "name": "Black Grey",
-   "hexCode": "#2d373a "
- },
- {
-   "name": "Black Red [Cadmium Brown]",
-   "hexCode": "#5f2e39 "
- },
- {
-   "name": "Blue",
-   "hexCode": "#043667 "
- },
- {
-   "name": "Blue Green",
-   "hexCode": "#1a9496 "
- },
- {
-   "name": "Blue Grey Pale",
-   "hexCode": "#9ea7a5 "
- },
- {
-   "name": "Blue Violet",
-   "hexCode": "#795c9a "
- },
- {
-   "name": "Bright Orange",
-   "hexCode": "#f26833 "
- },
- {
-   "name": "Bronce Green",
-   "hexCode": "#2a534f "
- },
- {
-   "name": "Brown Rose",
-   "hexCode": "#cf8774 "
- },
- {
-   "name": "Brown Sand",
-   "hexCode": "#b08064 "
- },
- {
-   "name": "Brown Violet",
-   "hexCode": "#4e5d4d "
- },
- {
-   "name": "Buff",
-   "hexCode": "#d2ca9f "
- },
- {
-   "name": "Burnt Cadmium Red",
-   "hexCode": "#623535 "
- },
- {
-   "name": "Burnt Umber",
-   "hexCode": "#665148 "
- },
- {
-   "name": "Cam. Olive Green",
-   "hexCode": "#3c5549 "
- },
- {
-   "name": "Carmine Red",
-   "hexCode": "#b73035 "
- },
- {
-   "name": "Cavalry Brown",
-   "hexCode": "#853f3d "
- },
- {
-   "name": "Chocolate Brown",
-   "hexCode": "#5f5047 "
- },
- {
-   "name": "Clear Orange",
-   "hexCode": "#f1552c "
- },
- {
-   "name": "Cork Brown",
-   "hexCode": "#a57b63 "
- },
- {
-   "name": "Dark Blue",
-   "hexCode": "#0d5a86 "
- },
- {
-   "name": "Dark Blue Grey",
-   "hexCode": "#4b5751 "
- },
- {
-   "name": "Dark Blue Grey",
-   "hexCode": "#5c7476 "
- },
- {
-   "name": "Dark Flesh",
-   "hexCode": "#d9a262 "
- },
- {
-   "name": "Dark Grey",
-   "hexCode": "#233e3d "
- },
- {
-   "name": "Dark Prussian Blue",
-   "hexCode": "#192c43 "
- },
- {
-   "name": "Dark Red",
-   "hexCode": "#a24a46 "
- },
- {
-   "name": "Dark Sand",
-   "hexCode": "#d1b47e "
- },
- {
-   "name": "Dark Sand",
-   "hexCode": "#d6b779 "
- },
- {
-   "name": "Dark Sea Blue",
-   "hexCode": "#2a4048 "
- },
- {
-   "name": "Dark Sea Green",
-   "hexCode": "#2f4844 "
- },
- {
-   "name": "Dark Sea Grey",
-   "hexCode": "#787d7a "
- },
- {
-   "name": "Dark Yellow",
-   "hexCode": "#9d9059 "
- },
- {
-   "name": "Deck Tan",
-   "hexCode": "#bec5b3 "
- },
- {
-   "name": "Deep Green",
-   "hexCode": "#0a6b48 "
- },
- {
-   "name": "Deep Sky Blue",
-   "hexCode": "#00a6da "
- },
- {
-   "name": "Deep Yellow",
-   "hexCode": "#ffe30c "
- },
- {
-   "name": "Desert Yellow",
-   "hexCode": "#b19151 "
- },
- {
-   "name": "Emerald",
-   "hexCode": "#00906a "
- },
- {
-   "name": "English Uniform",
-   "hexCode": "#715833 "
- },
- {
-   "name": "Field Blue",
-   "hexCode": "#436872 "
- },
- {
-   "name": "Flat Blue",
-   "hexCode": "#336991 "
- },
- {
-   "name": "Flat Brown",
-   "hexCode": "#764841 "
- },
- {
-   "name": "Flat Earth",
-   "hexCode": "#87643c "
- },
- {
-   "name": "Flat Flesh",
-   "hexCode": "#d8a977 "
- },
- {
-   "name": "Flat Green",
-   "hexCode": "#2a6531 "
- },
- {
-   "name": "Flat Red",
-   "hexCode": "#aa3037 "
- },
- {
-   "name": "Flat Yellow",
-   "hexCode": "#ffcd25 "
- },
- {
-   "name": "French Mirage Blue",
-   "hexCode": "#557880 "
- },
- {
-   "name": "German Cam. Beige WW2",
-   "hexCode": "#9c8d70 "
- },
- {
-   "name": "German Cam. Black Brown",
-   "hexCode": "#553528 "
- },
- {
-   "name": "German Cam. Black Brown",
-   "hexCode": "#5b3528 "
- },
- {
-   "name": "German Cam. Bright Green",
-   "hexCode": "#528944 "
- },
- {
-   "name": "German Cam. Dark Green",
-   "hexCode": "#2f4845 "
- },
- {
-   "name": "German Cam. Extra Dark Green",
-   "hexCode": "#30504a "
- },
- {
-   "name": "German Cam. Medium Brown",
-   "hexCode": "#722b2f "
- },
- {
-   "name": "German Cam. Orange Ochre",
-   "hexCode": "#9d7e55 "
- },
- {
-   "name": "German Cam. Pale Brown",
-   "hexCode": "#82685e "
- },
- {
-   "name": "German Field Grey WW2",
-   "hexCode": "#595748 "
- },
- {
-   "name": "German Grey",
-   "hexCode": "#192f30 "
- },
- {
-   "name": "German Orange",
-   "hexCode": "#f05426 "
- },
- {
-   "name": "German Uniform",
-   "hexCode": "#286254 "
- },
- {
-   "name": "German Yellow",
-   "hexCode": "#e8e589 "
- },
- {
-   "name": "Glossy Black",
-   "hexCode": "#010101 "
- },
- {
-   "name": "Gold Brown",
-   "hexCode": "#ba8636 "
- },
- {
-   "name": "Golden Olive",
-   "hexCode": "#78923b "
- },
- {
-   "name": "Golden Yellow",
-   "hexCode": "#f7c65e "
- },
- {
-   "name": "Green Brown",
-   "hexCode": "#8d7b55 "
- },
- {
-   "name": "Green Grey",
-   "hexCode": "#827e61 "
- },
- {
-   "name": "Green Ochre",
-   "hexCode": "#a98969 "
- },
- {
-   "name": "Green Sky",
-   "hexCode": "#59ad84 "
- },
- {
-   "name": "Grey Blue",
-   "hexCode": "#45708d "
- },
- {
-   "name": "Grey Green",
-   "hexCode": "#565a60 "
- },
- {
-   "name": "Grey Grey",
-   "hexCode": "#aecbbb "
- },
- {
-   "name": "Gunship Green",
-   "hexCode": "#3d685e "
- },
- {
-   "name": "Hull Red",
-   "hexCode": "#522724 "
- },
- {
-   "name": "Ice Yellow",
-   "hexCode": "#feef87 "
- },
- {
-   "name": "Intermediate Blue",
-   "hexCode": "#607a80 "
- },
- {
-   "name": "Intermediate Green",
-   "hexCode": "#49944f "
- },
- {
-   "name": "Iraqi Sand",
-   "hexCode": "#b89972 "
- },
- {
-   "name": "Ivory",
-   "hexCode": "#eff1d9 "
- },
- {
-   "name": "Japan Uniform WW2",
-   "hexCode": "#998546 "
- },
- {
-   "name": "Khaki",
-   "hexCode": "#969163 "
- },
- {
-   "name": "Khaki Grey",
-   "hexCode": "#8b7f5d "
- },
- {
-   "name": "Leather Brown",
-   "hexCode": "#4a4639 "
- },
- {
-   "name": "Lemon Yellow",
-   "hexCode": "#fef10e "
- },
- {
-   "name": "Light Brown",
-   "hexCode": "#bf764e "
- },
- {
-   "name": "Light Flesh",
-   "hexCode": "#feedd0 "
- },
- {
-   "name": "Light Green",
-   "hexCode": "#00a850 "
- },
- {
-   "name": "Light Green Blue",
-   "hexCode": "#6d9a95 "
- },
- {
-   "name": "Light Grey",
-   "hexCode": "#949c9a "
- },
- {
-   "name": "Light Orange",
-   "hexCode": "#f68627 "
- },
- {
-   "name": "Light Sea Grey",
-   "hexCode": "#97b4b5 "
- },
- {
-   "name": "Light Turquoise",
-   "hexCode": "#0094a5 "
- },
- {
-   "name": "Light Yellow",
-   "hexCode": "#f7ea62 "
- },
- {
-   "name": "Lime Green",
-   "hexCode": "#6fae4e "
- },
- {
-   "name": "London Grey",
-   "hexCode": "#4a555e "
- },
- {
-   "name": "Luftwaffe Cam. Green",
-   "hexCode": "#596b3f "
- },
- {
-   "name": "Luftwaffe Uniform WW2",
-   "hexCode": "#3d474f "
- },
- {
-   "name": "Magenta",
-   "hexCode": "#a92a56 "
- },
- {
-   "name": "Mahogany Brown",
-   "hexCode": "#804b47 "
- },
- {
-   "name": "Medium Blue",
-   "hexCode": "#066588 "
- },
- {
-   "name": "Medium Fleshtone",
-   "hexCode": "#c08245 "
- },
- {
-   "name": "Medium Grey",
-   "hexCode": "#909b85 "
- },
- {
-   "name": "Medium Olive",
-   "hexCode": "#226b2e "
- },
- {
-   "name": "Medium Sea Grey",
-   "hexCode": "#869393 "
- },
- {
-   "name": "Middlestone",
-   "hexCode": "#9c9660 "
- },
- {
-   "name": "Military Green",
-   "hexCode": "#3e5848 "
- },
- {
-   "name": "Neutral Grey",
-   "hexCode": "#64767a "
- },
- {
-   "name": "Ochre Brown",
-   "hexCode": "#a77237 "
- },
- {
-   "name": "Offwhite",
-   "hexCode": "#efeee2 "
- },
- {
-   "name": "Old Rose",
-   "hexCode": "#d47b7d "
- },
- {
-   "name": "Olive Green",
-   "hexCode": "#6a8b3a "
- },
- {
-   "name": "Olive Grey",
-   "hexCode": "#39584f "
- },
- {
-   "name": "Orange Brown",
-   "hexCode": "#b86f44 "
- },
- {
-   "name": "Orange Red",
-   "hexCode": "#e34c26 "
- },
- {
-   "name": "Oxford Blue",
-   "hexCode": "#3a465f "
- },
- {
-   "name": "Pale Blue",
-   "hexCode": "#83b5b2 "
- },
- {
-   "name": "Pale Grey Blue",
-   "hexCode": "#bacdd0 "
- },
- {
-   "name": "Pale Sand",
-   "hexCode": "#d1c49c "
- },
- {
-   "name": "Park Green Flat",
-   "hexCode": "#008c5d "
- },
- {
-   "name": "Pastel Blue",
-   "hexCode": "#67859b "
- },
- {
-   "name": "Pastel Green",
-   "hexCode": "#a4bb99 "
- },
- {
-   "name": "Pink",
-   "hexCode": "#d37497 "
- },
- {
-   "name": "Prussian Blue",
-   "hexCode": "#2a546e "
- },
- {
-   "name": "Purple",
-   "hexCode": "#834a6c "
- },
- {
-   "name": "Red",
-   "hexCode": "#91323a "
- },
- {
-   "name": "Red Leather",
-   "hexCode": "#93453d "
- },
- {
-   "name": "Reflective Green",
-   "hexCode": "#496244 "
- },
- {
-   "name": "Royal Blue",
-   "hexCode": "#41558d "
- },
- {
-   "name": "Royal Purple",
-   "hexCode": "#4b2967 "
- },
- {
-   "name": "Russian Uniform WW2",
-   "hexCode": "#606d53 "
- },
- {
-   "name": "Saddle Brown",
-   "hexCode": "#89584f "
- },
- {
-   "name": "Salmon Rose",
-   "hexCode": "#f89d87 "
- },
- {
-   "name": "Sand Yellow",
-   "hexCode": "#d7bf75 "
- },
- {
-   "name": "Scarlet",
-   "hexCode": "#da3630 "
- },
- {
-   "name": "Silver Grey",
-   "hexCode": "#d8dfd5 "
- },
- {
-   "name": "Sky Blue",
-   "hexCode": "#86d6f7 "
- },
- {
-   "name": "Sky Grey",
-   "hexCode": "#b3b6b2 "
- },
- {
-   "name": "Stone Grey",
-   "hexCode": "#959980 "
- },
- {
-   "name": "Sunny Skintone",
-   "hexCode": "#f4b171 "
- },
- {
-   "name": "Sunset Red",
-   "hexCode": "#c22c5f "
- },
- {
-   "name": "Tan Earth",
-   "hexCode": "#9c7962 "
- },
- {
-   "name": "Tan Yellow",
-   "hexCode": "#b5915d "
- },
- {
-   "name": "Turquoise",
-   "hexCode": "#008e9c "
- },
- {
-   "name": "US Dark Green",
-   "hexCode": "#5b6955 "
- },
- {
-   "name": "US Field Drab",
-   "hexCode": "#705d43 "
- },
- {
-   "name": "USA Olive Drab",
-   "hexCode": "#3b4947 "
- },
- {
-   "name": "Ultramarine",
-   "hexCode": "#3b5da7 "
- },
- {
-   "name": "Uniform Green",
-   "hexCode": "#577a38 "
- },
- {
-   "name": "Vermillion",
-   "hexCode": "#d22b2d "
- },
- {
-   "name": "Violet",
-   "hexCode": "#4b2f65 "
- },
- {
-   "name": "Violet Red",
-   "hexCode": "#6b2946 "
- },
- {
-   "name": "White",
-   "hexCode": "#ffffff "
- },
- {
-   "name": "White Grey",
-   "hexCode": "#eef1ec "
- },
- {
-   "name": "Yellow Green",
-   "hexCode": "#91864b "
- },
- {
-   "name": "Yellow Green",
-   "hexCode": "#d9e02a "
- },
- {
-   "name": "Yellow Ochre",
-   "hexCode": "#c19448 "
- },
- {
-   "name": "Yellow Olive",
-   "hexCode": "#26392e "
- }
+    {
+        "brand": "Vallejo Model",
+        "name": "Amaranth Red",
+        "ref": "",
+        "hexCode": "#cc4338 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Andrea Blue",
+        "ref": "",
+        "hexCode": "#008dc9 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Azure",
+        "ref": "",
+        "hexCode": "#717cad "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Basalt Grey",
+        "ref": "",
+        "hexCode": "#576860 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Basic Skintone",
+        "ref": "",
+        "hexCode": "#fbbc8c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Beige",
+        "ref": "",
+        "hexCode": "#dbc58e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Beige Brown",
+        "ref": "",
+        "hexCode": "#78584a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Beige Red",
+        "ref": "",
+        "hexCode": "#c79166 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Black",
+        "ref": "",
+        "hexCode": "#252b31 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Black Green",
+        "ref": "",
+        "hexCode": "#19423e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Black Grey",
+        "ref": "",
+        "hexCode": "#2d373a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Black Red [Cadmium Brown]",
+        "ref": "",
+        "hexCode": "#5f2e39 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Blue",
+        "ref": "",
+        "hexCode": "#043667 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Blue Green",
+        "ref": "",
+        "hexCode": "#1a9496 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Blue Grey Pale",
+        "ref": "",
+        "hexCode": "#9ea7a5 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Blue Violet",
+        "ref": "",
+        "hexCode": "#795c9a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Bright Orange",
+        "ref": "",
+        "hexCode": "#f26833 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Bronce Green",
+        "ref": "",
+        "hexCode": "#2a534f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Brown Rose",
+        "ref": "",
+        "hexCode": "#cf8774 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Brown Sand",
+        "ref": "",
+        "hexCode": "#b08064 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Brown Violet",
+        "ref": "",
+        "hexCode": "#4e5d4d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Buff",
+        "ref": "",
+        "hexCode": "#d2ca9f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Burnt Cadmium Red",
+        "ref": "",
+        "hexCode": "#623535 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Burnt Umber",
+        "ref": "",
+        "hexCode": "#665148 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Cam. Olive Green",
+        "ref": "",
+        "hexCode": "#3c5549 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Carmine Red",
+        "ref": "",
+        "hexCode": "#b73035 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Cavalry Brown",
+        "ref": "",
+        "hexCode": "#853f3d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Chocolate Brown",
+        "ref": "",
+        "hexCode": "#5f5047 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Clear Orange",
+        "ref": "",
+        "hexCode": "#f1552c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Cork Brown",
+        "ref": "",
+        "hexCode": "#a57b63 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Blue",
+        "ref": "",
+        "hexCode": "#0d5a86 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Blue Grey",
+        "ref": "",
+        "hexCode": "#4b5751 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Blue Grey",
+        "ref": "",
+        "hexCode": "#5c7476 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Flesh",
+        "ref": "",
+        "hexCode": "#d9a262 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Grey",
+        "ref": "",
+        "hexCode": "#233e3d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Prussian Blue",
+        "ref": "",
+        "hexCode": "#192c43 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Red",
+        "ref": "",
+        "hexCode": "#a24a46 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Sand",
+        "ref": "",
+        "hexCode": "#d1b47e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Sand",
+        "ref": "",
+        "hexCode": "#d6b779 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Sea Blue",
+        "ref": "",
+        "hexCode": "#2a4048 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Sea Green",
+        "ref": "",
+        "hexCode": "#2f4844 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Sea Grey",
+        "ref": "",
+        "hexCode": "#787d7a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Dark Yellow",
+        "ref": "",
+        "hexCode": "#9d9059 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Deck Tan",
+        "ref": "",
+        "hexCode": "#bec5b3 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Deep Green",
+        "ref": "",
+        "hexCode": "#0a6b48 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Deep Sky Blue",
+        "ref": "",
+        "hexCode": "#00a6da "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Deep Yellow",
+        "ref": "",
+        "hexCode": "#ffe30c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Desert Yellow",
+        "ref": "",
+        "hexCode": "#b19151 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Emerald",
+        "ref": "",
+        "hexCode": "#00906a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "English Uniform",
+        "ref": "",
+        "hexCode": "#715833 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Field Blue",
+        "ref": "",
+        "hexCode": "#436872 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Blue",
+        "ref": "",
+        "hexCode": "#336991 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Brown",
+        "ref": "",
+        "hexCode": "#764841 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Earth",
+        "ref": "",
+        "hexCode": "#87643c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Flesh",
+        "ref": "",
+        "hexCode": "#d8a977 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Green",
+        "ref": "",
+        "hexCode": "#2a6531 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Red",
+        "ref": "",
+        "hexCode": "#aa3037 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Flat Yellow",
+        "ref": "",
+        "hexCode": "#ffcd25 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "French Mirage Blue",
+        "ref": "",
+        "hexCode": "#557880 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Beige WW2",
+        "ref": "",
+        "hexCode": "#9c8d70 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Black Brown",
+        "ref": "",
+        "hexCode": "#553528 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Black Brown",
+        "ref": "",
+        "hexCode": "#5b3528 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Bright Green",
+        "ref": "",
+        "hexCode": "#528944 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Dark Green",
+        "ref": "",
+        "hexCode": "#2f4845 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Extra Dark Green",
+        "ref": "",
+        "hexCode": "#30504a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Medium Brown",
+        "ref": "",
+        "hexCode": "#722b2f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Orange Ochre",
+        "ref": "",
+        "hexCode": "#9d7e55 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Cam. Pale Brown",
+        "ref": "",
+        "hexCode": "#82685e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Field Grey WW2",
+        "ref": "",
+        "hexCode": "#595748 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Grey",
+        "ref": "",
+        "hexCode": "#192f30 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Orange",
+        "ref": "",
+        "hexCode": "#f05426 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Uniform",
+        "ref": "",
+        "hexCode": "#286254 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "German Yellow",
+        "ref": "",
+        "hexCode": "#e8e589 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Glossy Black",
+        "ref": "",
+        "hexCode": "#010101 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Gold Brown",
+        "ref": "",
+        "hexCode": "#ba8636 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Golden Olive",
+        "ref": "",
+        "hexCode": "#78923b "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Golden Yellow",
+        "ref": "",
+        "hexCode": "#f7c65e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Green Brown",
+        "ref": "",
+        "hexCode": "#8d7b55 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Green Grey",
+        "ref": "",
+        "hexCode": "#827e61 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Green Ochre",
+        "ref": "",
+        "hexCode": "#a98969 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Green Sky",
+        "ref": "",
+        "hexCode": "#59ad84 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Grey Blue",
+        "ref": "",
+        "hexCode": "#45708d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Grey Green",
+        "ref": "",
+        "hexCode": "#565a60 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Grey Grey",
+        "ref": "",
+        "hexCode": "#aecbbb "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Gunship Green",
+        "ref": "",
+        "hexCode": "#3d685e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Hull Red",
+        "ref": "",
+        "hexCode": "#522724 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Ice Yellow",
+        "ref": "",
+        "hexCode": "#feef87 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Intermediate Blue",
+        "ref": "",
+        "hexCode": "#607a80 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Intermediate Green",
+        "ref": "",
+        "hexCode": "#49944f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Iraqi Sand",
+        "ref": "",
+        "hexCode": "#b89972 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Ivory",
+        "ref": "",
+        "hexCode": "#eff1d9 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Japan Uniform WW2",
+        "ref": "",
+        "hexCode": "#998546 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Khaki",
+        "ref": "",
+        "hexCode": "#969163 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Khaki Grey",
+        "ref": "",
+        "hexCode": "#8b7f5d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Leather Brown",
+        "ref": "",
+        "hexCode": "#4a4639 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Lemon Yellow",
+        "ref": "",
+        "hexCode": "#fef10e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Brown",
+        "ref": "",
+        "hexCode": "#bf764e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Flesh",
+        "ref": "",
+        "hexCode": "#feedd0 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Green",
+        "ref": "",
+        "hexCode": "#00a850 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Green Blue",
+        "ref": "",
+        "hexCode": "#6d9a95 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Grey",
+        "ref": "",
+        "hexCode": "#949c9a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Orange",
+        "ref": "",
+        "hexCode": "#f68627 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Sea Grey",
+        "ref": "",
+        "hexCode": "#97b4b5 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Turquoise",
+        "ref": "",
+        "hexCode": "#0094a5 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Light Yellow",
+        "ref": "",
+        "hexCode": "#f7ea62 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Lime Green",
+        "ref": "",
+        "hexCode": "#6fae4e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "London Grey",
+        "ref": "",
+        "hexCode": "#4a555e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Luftwaffe Cam. Green",
+        "ref": "",
+        "hexCode": "#596b3f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Luftwaffe Uniform WW2",
+        "ref": "",
+        "hexCode": "#3d474f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Magenta",
+        "ref": "",
+        "hexCode": "#a92a56 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Mahogany Brown",
+        "ref": "",
+        "hexCode": "#804b47 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Medium Blue",
+        "ref": "",
+        "hexCode": "#066588 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Medium Fleshtone",
+        "ref": "",
+        "hexCode": "#c08245 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Medium Grey",
+        "ref": "",
+        "hexCode": "#909b85 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Medium Olive",
+        "ref": "",
+        "hexCode": "#226b2e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Medium Sea Grey",
+        "ref": "",
+        "hexCode": "#869393 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Middlestone",
+        "ref": "",
+        "hexCode": "#9c9660 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Military Green",
+        "ref": "",
+        "hexCode": "#3e5848 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Neutral Grey",
+        "ref": "",
+        "hexCode": "#64767a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Ochre Brown",
+        "ref": "",
+        "hexCode": "#a77237 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Offwhite",
+        "ref": "",
+        "hexCode": "#efeee2 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Old Rose",
+        "ref": "",
+        "hexCode": "#d47b7d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Olive Green",
+        "ref": "",
+        "hexCode": "#6a8b3a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Olive Grey",
+        "ref": "",
+        "hexCode": "#39584f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Orange Brown",
+        "ref": "",
+        "hexCode": "#b86f44 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Orange Red",
+        "ref": "",
+        "hexCode": "#e34c26 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Oxford Blue",
+        "ref": "",
+        "hexCode": "#3a465f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Pale Blue",
+        "ref": "",
+        "hexCode": "#83b5b2 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Pale Grey Blue",
+        "ref": "",
+        "hexCode": "#bacdd0 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Pale Sand",
+        "ref": "",
+        "hexCode": "#d1c49c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Park Green Flat",
+        "ref": "",
+        "hexCode": "#008c5d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Pastel Blue",
+        "ref": "",
+        "hexCode": "#67859b "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Pastel Green",
+        "ref": "",
+        "hexCode": "#a4bb99 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Pink",
+        "ref": "",
+        "hexCode": "#d37497 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Prussian Blue",
+        "ref": "",
+        "hexCode": "#2a546e "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Purple",
+        "ref": "",
+        "hexCode": "#834a6c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Red",
+        "ref": "",
+        "hexCode": "#91323a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Red Leather",
+        "ref": "",
+        "hexCode": "#93453d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Reflective Green",
+        "ref": "",
+        "hexCode": "#496244 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Royal Blue",
+        "ref": "",
+        "hexCode": "#41558d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Royal Purple",
+        "ref": "",
+        "hexCode": "#4b2967 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Russian Uniform WW2",
+        "ref": "",
+        "hexCode": "#606d53 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Saddle Brown",
+        "ref": "",
+        "hexCode": "#89584f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Salmon Rose",
+        "ref": "",
+        "hexCode": "#f89d87 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Sand Yellow",
+        "ref": "",
+        "hexCode": "#d7bf75 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Scarlet",
+        "ref": "",
+        "hexCode": "#da3630 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Silver Grey",
+        "ref": "",
+        "hexCode": "#d8dfd5 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Sky Blue",
+        "ref": "",
+        "hexCode": "#86d6f7 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Sky Grey",
+        "ref": "",
+        "hexCode": "#b3b6b2 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Stone Grey",
+        "ref": "",
+        "hexCode": "#959980 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Sunny Skintone",
+        "ref": "",
+        "hexCode": "#f4b171 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Sunset Red",
+        "ref": "",
+        "hexCode": "#c22c5f "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Tan Earth",
+        "ref": "",
+        "hexCode": "#9c7962 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Tan Yellow",
+        "ref": "",
+        "hexCode": "#b5915d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Turquoise",
+        "ref": "",
+        "hexCode": "#008e9c "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "US Dark Green",
+        "ref": "",
+        "hexCode": "#5b6955 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "US Field Drab",
+        "ref": "",
+        "hexCode": "#705d43 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "USA Olive Drab",
+        "ref": "",
+        "hexCode": "#3b4947 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Ultramarine",
+        "ref": "",
+        "hexCode": "#3b5da7 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Uniform Green",
+        "ref": "",
+        "hexCode": "#577a38 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Vermillion",
+        "ref": "",
+        "hexCode": "#d22b2d "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Violet",
+        "ref": "",
+        "hexCode": "#4b2f65 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Violet Red",
+        "ref": "",
+        "hexCode": "#6b2946 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "White",
+        "ref": "",
+        "hexCode": "#ffffff "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "White Grey",
+        "ref": "",
+        "hexCode": "#eef1ec "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Yellow Green",
+        "ref": "",
+        "hexCode": "#91864b "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Yellow Green",
+        "ref": "",
+        "hexCode": "#d9e02a "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Yellow Ochre",
+        "ref": "",
+        "hexCode": "#c19448 "
+    },
+    {
+        "brand": "Vallejo Model",
+        "name": "Yellow Olive",
+        "ref": "",
+        "hexCode": "#26392e "
+    }
 ]

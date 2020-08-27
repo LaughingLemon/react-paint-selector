@@ -4,7 +4,7 @@ import findNearestPaintColour from "../../utils/SelectColour";
 import "./style.css"
 
 export default (props) => {
-    const paintColours = props.paintColours.map((colour) => new PaintColour(colour.name, parseInt(colour.hexCode.replace("#", "0x"), 16)));
+    const paintColours = props.paintColours.map((colour) => new PaintColour(colour.name, colour.brand, colour.ref, parseInt(colour.hexCode.replace("#", "0x"), 16)));
 
     const nearestColour = findNearestPaintColour(props.value, paintColours);
 
@@ -19,7 +19,7 @@ export default (props) => {
                 </div>
             </div>
             <div className={"box"}>
-                <div>{props.name}</div>
+                <div>{nearestColour.brand}</div>
                 <div>{nearestColour.name}</div>
                 <div>{innerColour}</div>
                 <div>{nearestColour.distance.toFixed(0)}</div>
