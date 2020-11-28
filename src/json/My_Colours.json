@@ -12,6 +12,12 @@
         "hexCode": "#fdb318 "
     },
     {
+        "brand": "Vallejo Game",
+        "name": "Sun Yellow",
+        "ref": "72.006",
+        "hexCode": "#ffcf07 "
+    },
+    {
         "brand": "AK Interactive",
         "name": "Rubber Black",
         "ref": "AK11027",
@@ -37,8 +43,68 @@
     },
     {
         "brand": "Vallejo Game",
+        "name": "Orange Fire",
+        "ref": "72.008",
+        "hexCode": "#f1652e "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Bloody Red",
+        "ref": "72.010",
+        "hexCode": "#bf282e "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Ultramarine Blue",
+        "ref": "72.022",
+        "hexCode": "#373592 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Dark Green",
+        "ref": "72.028",
+        "hexCode": "#083c2a "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Goblin Green",
+        "ref": "72.030",
+        "hexCode": "#23743c "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Bone White",
+        "ref": "72.034",
+        "hexCode": "#e8be86 "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Bronze Fleshtone",
+        "ref": "72.036",
+        "hexCode": "#db945c "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Leather Brown",
+        "ref": "72.040",
+        "hexCode": "#7b5d2a "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Beasty Brown",
+        "ref": "72.043",
+        "hexCode": "#55432d "
+    },
+    {
+        "brand": "Vallejo Game",
+        "name": "Black",
+        "ref": "72.051",
+        "hexCode": "#000000 "
+    },
+    {
+        "brand": "Vallejo Game",
         "name": "Dead White",
-        "ref": "",
+        "ref": "72.001",
         "hexCode": "#ffffff "
     },
     {
