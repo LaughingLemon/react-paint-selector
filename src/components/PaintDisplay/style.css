@@ -1,6 +1,6 @@
 .PaintDisplay {
     display: grid;
-    grid: 150px / auto auto auto;
+    grid: auto / auto auto;
     grid-gap: 10px;
     background-color: #2196F3;
     padding: 10px;

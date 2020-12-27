@@ -144,6 +144,66 @@
         "hexCode": "#f8c1d1 "
     },
     {
+        "brand": "Hataka Hobby",
+        "name": "Mint Green",
+        "ref": "B703",
+        "hexCode": "#006f3d "
+    },
+    {
+        "brand": "Hataka Hobby",
+        "name": "Traffic Red",
+        "ref": "B103",
+        "hexCode": "#bb1e10 "
+    },
+    {
+        "brand": "Gamecraft Miniature Paints",
+        "name": "Canary Yellow",
+        "ref": "61",
+        "hexCode": "#fada35 "
+    },
+    {
+        "brand": "Gamecraft Miniature Paints",
+        "name": "Golden Brown",
+        "ref": "88",
+        "hexCode": "#e8871d "
+    },
+    {
+        "brand": "Gamecraft Miniature Paints",
+        "name": "Lemon Yellow",
+        "ref": "64",
+        "hexCode": "#e7dd79 "
+    },
+    {
+        "brand": "Privateer Press P3 Paints",
+        "name": "Beasts Hide",
+        "ref": "PIP 93056",
+        "hexCode": "#6d3f30 "
+    },
+    {
+        "brand": "Privateer Press P3 Paints",
+        "name": "Jack Bone",
+        "ref": "PIP 93064",
+        "hexCode": "#76654d "
+    },
+    {
+        "brand": "Privateer Press P3 Paints",
+        "name": "Menoth White Highlight",
+        "ref": "PIP 93066",
+        "hexCode": "#dfdc99 "
+    },
+    {
+        "brand": "Instar Alpha",
+        "name": "Blush Pink",
+        "ref": "",
+        "hexCode": "#a30f2d "
+    },
+    {
+        "brand": "Instar Alpha",
+        "name": "Electic Blue",
+        "ref": "",
+        "hexCode": "#0055ac "
+    },
+    {
         "brand": "Army Painter Warpaints",
         "name": "Troll Claws",
         "ref": "",
