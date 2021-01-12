@@ -1,0 +1,290 @@
+[
+    {
+        "brand": "Scale75 Instant",
+        "name": "Dragon Blood",
+        "ref": "SIN02",
+        "hexCode": "#800926 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Health Red",
+        "ref": "SIN03",
+        "hexCode": "#C01C1C "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Love Affair",
+        "ref": "SIN04",
+        "hexCode": "#E52E3C "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Life Red",
+        "ref": "SIN05",
+        "hexCode": "#E33426 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Ragweed Orange",
+        "ref": "SIN06",
+        "hexCode": "#E74F11 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Drain Life",
+        "ref": "SIN07",
+        "hexCode": "#E4956B "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Full Healing",
+        "ref": "SIN08",
+        "hexCode": "#FFEC04 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Estus Yellow",
+        "ref": "SIN09",
+        "hexCode": "#FDE464 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Zucchini Skin",
+        "ref": "SIN10",
+        "hexCode": "#415C35 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Dead Flesh",
+        "ref": "SIN11",
+        "hexCode": "#7B6764 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Fairy Blood",
+        "ref": "SIN12",
+        "hexCode": "#434A73 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Zombie Skin",
+        "ref": "SIN13",
+        "hexCode": "#A5A86E "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Phoenix Feather",
+        "ref": "SIN14",
+        "hexCode": "#CE8A5F "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Human Flesh",
+        "ref": "SIN15",
+        "hexCode": "#D9AD9A "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Undead Dragon",
+        "ref": "SIN16",
+        "hexCode": "#B5C7B8 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Phoenix Egg",
+        "ref": "SIN17",
+        "hexCode": "#E4CFA4 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Paralyze Blue",
+        "ref": "SIN18",
+        "hexCode": "#3A7CC0 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Evil Root",
+        "ref": "SIN19",
+        "hexCode": "#EE7D51 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Toad Green",
+        "ref": "SIN20",
+        "hexCode": "#47523A "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Sulfur Yellow",
+        "ref": "SIN21",
+        "hexCode": "#FED504 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Belladonna Green",
+        "ref": "SIN22",
+        "hexCode": "#4EA57A "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Corrupted Stamina",
+        "ref": "SIN23",
+        "hexCode": "#6B9D23 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Rotten Pus",
+        "ref": "SIN24",
+        "hexCode": "#F9B401 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Acid Green",
+        "ref": "SIN25",
+        "hexCode": "#C4D86B "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Remove Mana",
+        "ref": "SIN26",
+        "hexCode": "#0F2836 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Arcane Purple",
+        "ref": "SIN27",
+        "hexCode": "#35104A "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Elixir Green",
+        "ref": "SIN28",
+        "hexCode": "#005E4E "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Replenish Blue",
+        "ref": "SIN29",
+        "hexCode": "#004C98 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Mana Regeneration",
+        "ref": "SIN30",
+        "hexCode": "#0088D1 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Magic Blue",
+        "ref": "SIN31",
+        "hexCode": "#1E7995 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Grey Spell",
+        "ref": "SIN32",
+        "hexCode": "#828FAF "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Ancestral Blue",
+        "ref": "SIN33",
+        "hexCode": "#65ACC4 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Grizzly Brown",
+        "ref": "SIN34",
+        "hexCode": "#531921 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Endurance Brown",
+        "ref": "SIN35",
+        "hexCode": "#764022 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Rage Brown",
+        "ref": "SIN36",
+        "hexCode": "#7B2B1B "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Frenzy Orange",
+        "ref": "SIN37",
+        "hexCode": "#EA5F0C "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Ogre Brown",
+        "ref": "SIN38",
+        "hexCode": "#C1771C "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Salmon Fury",
+        "ref": "SIN39",
+        "hexCode": "#E75952 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Wild Beast",
+        "ref": "SIN40",
+        "hexCode": "#C9864F "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Savage Beige",
+        "ref": "SIN41",
+        "hexCode": "#F0D786 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Golem Grey",
+        "ref": "SIN42",
+        "hexCode": "#2D3132 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Basilisk Green",
+        "ref": "SIN43",
+        "hexCode": "#263A3C "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Demon Brown",
+        "ref": "SIN44",
+        "hexCode": "#672822 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Dark Kraken",
+        "ref": "SIN45",
+        "hexCode": "#1B4A5A "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Leviathan Blue",
+        "ref": "SIN46",
+        "hexCode": "#005F73 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Spectral Wolf",
+        "ref": "SIN47",
+        "hexCode": "#AB9FA3 "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Shadow Black",
+        "ref": "SIN00",
+        "hexCode": "#1D1F1C "
+    },
+    {
+        "brand": "Scale75 Instant",
+        "name": "Werewolf Brown",
+        "ref": "SIN01",
+        "hexCode": "#553D37 "
+    }
+]
