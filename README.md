@@ -1,6 +1,6 @@
 # React Paint Selector
 
-This is a paint selector based on the RGB code of the colour you want. 
+This is a paint selector based on the RGB code of the colour you want. Select the colour from the colour picker and press the select button. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
