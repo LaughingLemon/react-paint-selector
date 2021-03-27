@@ -1,0 +1,554 @@
+[
+    {
+        "brand": "WarColours",
+        "name": "Orange 1",
+        "ref": "",
+        "hexCode": "#F8D08A "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Orange 2",
+        "ref": "",
+        "hexCode": "#FDB843 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Orange 3",
+        "ref": "",
+        "hexCode": "#F28123 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Orange 4",
+        "ref": "",
+        "hexCode": "#E65826 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Orange 5",
+        "ref": "",
+        "hexCode": "#E2403D "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Red 1",
+        "ref": "",
+        "hexCode": "#D32526 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Red 2",
+        "ref": "",
+        "hexCode": "#BD2027 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Red 3",
+        "ref": "",
+        "hexCode": "#A91922 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Red 4",
+        "ref": "",
+        "hexCode": "#791A1E "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Red 5",
+        "ref": "",
+        "hexCode": "#430B0E "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Brown 1",
+        "ref": "",
+        "hexCode": "#E17767 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Brown 2",
+        "ref": "",
+        "hexCode": "#9D3623 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Brown 3",
+        "ref": "",
+        "hexCode": "#6C2717 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Brown 4",
+        "ref": "",
+        "hexCode": "#5D4239 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Brown 5",
+        "ref": "",
+        "hexCode": "#423B43 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Ochre 1",
+        "ref": "",
+        "hexCode": "#E5E1BB "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Ochre 2",
+        "ref": "",
+        "hexCode": "#FFD66A "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Ochre 3",
+        "ref": "",
+        "hexCode": "#DA9C2B "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Ochre 4",
+        "ref": "",
+        "hexCode": "#5C4138 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Ochre 5",
+        "ref": "",
+        "hexCode": "#B87F14 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Yellow 1",
+        "ref": "",
+        "hexCode": "#FFFCDF "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Yellow 2",
+        "ref": "",
+        "hexCode": "#FDF003 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Yellow 3",
+        "ref": "",
+        "hexCode": "#FFD216 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Yellow 4",
+        "ref": "",
+        "hexCode": "#FDC018 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Yellow 5",
+        "ref": "",
+        "hexCode": "#FBA723 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Olive 1",
+        "ref": "",
+        "hexCode": "#FFF660 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Olive 2",
+        "ref": "",
+        "hexCode": "#C9E401 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Olive 3",
+        "ref": "",
+        "hexCode": "#94A70F "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Olive 4",
+        "ref": "",
+        "hexCode": "#586702 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Olive 5",
+        "ref": "",
+        "hexCode": "#3F4900 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Green 1",
+        "ref": "",
+        "hexCode": "#E2FF11 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Green 2",
+        "ref": "",
+        "hexCode": "#6EFE00 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Green 3",
+        "ref": "",
+        "hexCode": "#00B63A "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Green 4",
+        "ref": "",
+        "hexCode": "#01982D "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Green 5",
+        "ref": "",
+        "hexCode": "#01681F "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Emerald 1",
+        "ref": "",
+        "hexCode": "#00E592 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Emerald 2",
+        "ref": "",
+        "hexCode": "#00C77D "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Emerald 3",
+        "ref": "",
+        "hexCode": "#019960 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Emerald 4",
+        "ref": "",
+        "hexCode": "#007146 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Emerald 5",
+        "ref": "",
+        "hexCode": "#005331 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Turquoise 1",
+        "ref": "",
+        "hexCode": "#30E1DB "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Turquoise 2",
+        "ref": "",
+        "hexCode": "#00B1AE "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Turquoise 3",
+        "ref": "",
+        "hexCode": "#0094A2 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Turquoise 4",
+        "ref": "",
+        "hexCode": "#00535B "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Turquoise 5",
+        "ref": "",
+        "hexCode": "#012325 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue 1",
+        "ref": "",
+        "hexCode": "#9EDBEE "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue 2",
+        "ref": "",
+        "hexCode": "#008DB5 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue 3",
+        "ref": "",
+        "hexCode": "#0365AE "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue 4",
+        "ref": "",
+        "hexCode": "#0042AD "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue 5",
+        "ref": "",
+        "hexCode": "#002053 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Marine 1",
+        "ref": "",
+        "hexCode": "#8BC5ED "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Marine 2",
+        "ref": "",
+        "hexCode": "#4CA7ED "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Marine 3",
+        "ref": "",
+        "hexCode": "#007DDA "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Marine 4",
+        "ref": "",
+        "hexCode": "#005AA3 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Marine 5",
+        "ref": "",
+        "hexCode": "#003851 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Violet 1",
+        "ref": "",
+        "hexCode": "#CAB2FE "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Violet 2",
+        "ref": "",
+        "hexCode": "#9B64FE "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Violet 3",
+        "ref": "",
+        "hexCode": "#820191 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Violet 4",
+        "ref": "",
+        "hexCode": "#560182 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Violet 5",
+        "ref": "",
+        "hexCode": "#250036 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Purple 1",
+        "ref": "",
+        "hexCode": "#FEC8E8 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Purple 2",
+        "ref": "",
+        "hexCode": "#E45FB2 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Purple 3",
+        "ref": "",
+        "hexCode": "#BA3085 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Purple 4",
+        "ref": "",
+        "hexCode": "#692B50 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Purple 5",
+        "ref": "",
+        "hexCode": "#26101D "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Pink 1",
+        "ref": "",
+        "hexCode": "#FFC0DD "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Pink 2",
+        "ref": "",
+        "hexCode": "#F286B7 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Pink 3",
+        "ref": "",
+        "hexCode": "#BF2559 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Pink 4",
+        "ref": "",
+        "hexCode": "#911D42 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Pink 5",
+        "ref": "",
+        "hexCode": "#400B1D "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Flesh 1",
+        "ref": "",
+        "hexCode": "#FDF7BB "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Flesh 2",
+        "ref": "",
+        "hexCode": "#FFE8BA "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Flesh 3",
+        "ref": "",
+        "hexCode": "#FFC69B "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Flesh 4",
+        "ref": "",
+        "hexCode": "#D77779 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Flesh 5",
+        "ref": "",
+        "hexCode": "#9F7D61 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Cool Grey 1",
+        "ref": "",
+        "hexCode": "#C5C5C5 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Cool Grey 2",
+        "ref": "",
+        "hexCode": "#A5A5A5 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Cool Grey 3",
+        "ref": "",
+        "hexCode": "#828282 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Cool Grey 4",
+        "ref": "",
+        "hexCode": "#4C4C4C "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Cool Grey 5",
+        "ref": "",
+        "hexCode": "#191919 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Warm Grey 1",
+        "ref": "",
+        "hexCode": "#C0BDB6 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Warm Grey 2",
+        "ref": "",
+        "hexCode": "#AAA393 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Warm Grey 3",
+        "ref": "",
+        "hexCode": "#767267 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Warm Grey 4",
+        "ref": "",
+        "hexCode": "#494641 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Warm Grey 5",
+        "ref": "",
+        "hexCode": "#1E1D1B "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue Grey 1",
+        "ref": "",
+        "hexCode": "#D0E0F9 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue Grey 2",
+        "ref": "",
+        "hexCode": "#9AB2D8 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue Grey 3",
+        "ref": "",
+        "hexCode": "#708BB6 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue Grey 4",
+        "ref": "",
+        "hexCode": "#526989 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Blue Grey 5",
+        "ref": "",
+        "hexCode": "#293545 "
+    },
+    {
+        "brand": "WarColours",
+        "name": "White",
+        "ref": "",
+        "hexCode": "#FFFFFF "
+    },
+    {
+        "brand": "WarColours",
+        "name": "Black",
+        "ref": "",
+        "hexCode": "#000000 "
+    }
+]
